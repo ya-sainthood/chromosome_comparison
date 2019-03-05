@@ -1,0 +1,732 @@
+3	exonerate_est2genome	transcript	928233	1085879	8922	+	.	ID=EST:Ha-pnr-wing-H-hsp;vulgar=Ha-pnr-wing-H-hsp 3 1817 + 1 928232 1085879 + 8922 M 182 182 5 0 2 I 0 127623 3 0 2 M 361 361 5 0 2 I 0 14180 3 0 2 M 173 173 5 0 2 I 0 6579 3 0 2 M 241 241 5 0 2 I 0 7434 3 0 2 M 601 601 G 0 1 M 256 256
+3	exonerate_est2genome	exon	928233	928414	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp;1=exonerate:est2genome,exon,928233,928414,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1056042	1056402	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp;1=exonerate:est2genome,exon,1056042,1056402,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1070587	1070759	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp;1=exonerate:est2genome,exon,1070587,1070759,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1077343	1077583	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp;1=exonerate:est2genome,exon,1077343,1077583,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1085022	1085879	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp
+5	exonerate_est2genome	transcript	1655286	1755625	4181	+	.	ID=EST:Ha-pnr-wing-H-hsp.2;vulgar=Ha-pnr-wing-H-hsp 41 1814 + 2 1655285 1755625 + 4181 M 11 11 G 1 0 M 6 6 G 2 0 M 7 7 G 1 0 M 7 7 G 8 0 M 27 27 G 4 0 M 6 6 G 1 0 M 11 11 G 0 1 M 13 13 G 0 4 M 4 4 G 0 1 M 10 10 G 0 1 M 3 3 G 0 2 M 6 6 G 0 1 M 11 11 G 0 1 M 4 4 5 0 2 I 0 82335 3 0 2 G 1 0 M 233 233 G 0 6 M 128 128 5 0 2 I 0 5280 3 0 2 M 173 173 5 0 2 I 0 5166 3 0 2 M 241 241 5 0 2 I 0 5170 3 0 2 M 26 26 G 0 2 M 3 3 G 0 4 M 305 305 G 0 1 M 21 21 G 0 5 M 1 1 G 0 1 M 9 9 G 0 3 M 12 12 G 2 0 M 9 9 G 4 0 M 4 4 G 1 0 M 3 3 G 1 0 M 7 7 G 1 0 M 4 4 G 1 0 M 27 27 5 0 2 I 0 605 3 0 2 M 8 8 G 0 3 M 19 19 G 0 2 M 1 1 G 0 2 M 4 4 G 0 2 M 4 4 G 0 1 M 3 3 G 0 2 M 6 6 G 1 0 M 15 15 G 1 0 M 16 16 G 2 0 M 27 27 G 0 2 M 11 11 G 2 0 M 24 24 G 1 0 M 13 13 G 1 0 M 11 11 G 0 2 M 24 24 G 1 0 M 1 1 G 1 0 M 4 4 G 1 0 M 12 12 G 8 0 M 5 5 G 4 0 M 2 2 G 1 0 M 4 4 G 2 0 M 21 21 G 0 2 M 2 2 G 0 1 M 6 6 G 0 1 M 6 6 G 1 0 M 10 10 G 1 0 M 20 20 G 0 1 M 2 2 G 0 1 M 3 3 G 0 2 M 6 6 G 0 1 M 13 13 G 2 0 M 10 10 G 3 0 M 4 4 G 2 0 M 6 6 G 1 0 M 4 4 G 1 0 M 27 27 G 2 0 M 20 20
+5	exonerate_est2genome	exon	1655286	1655422	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp.2;2=exonerate:est2genome,exon,1655286,1655422,.,+,.,insertions,11
+5	exonerate_est2genome	exon	1737762	1738128	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp.2;2=exonerate:est2genome,exon,1737762,1738128,.,+,.,insertions,6
+5	exonerate_est2genome	exon	1743413	1743585	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp.2;2=exonerate:est2genome,exon,1743413,1743585,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1748756	1748996	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp.2;2=exonerate:est2genome,exon,1748756,1748996,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1754171	1754617	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp.2;2=exonerate:est2genome,exon,1754171,1754617,.,+,.,insertions,16
+5	exonerate_est2genome	exon	1755227	1755625	.	+	.	Parent=EST:Ha-pnr-wing-H-hsp.2
+2	exonerate_est2genome	transcript	2017796	2164153	8829	-	.	ID=EST:Ha-pnr-wing-H-hsp.3;vulgar=Ha-pnr-wing-H-hsp 3 1817 + 3 2164153 2017795 - 8829 M 91 91 G 0 1 M 91 91 5 0 2 I 0 120496 3 0 2 M 361 361 5 0 2 I 0 10904 3 0 2 M 173 173 5 0 2 I 0 7893 3 0 2 M 241 241 5 0 2 I 0 5233 3 0 2 M 601 601 G 0 1 M 256 256
+2	exonerate_est2genome	exon	2163971	2164153	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp.3;3=exonerate:est2genome,exon,2163971,2164153,.,-,.,insertions,1
+2	exonerate_est2genome	exon	2043110	2043470	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp.3;3=exonerate:est2genome,exon,2043110,2043470,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2032029	2032201	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp.3;3=exonerate:est2genome,exon,2032029,2032201,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2023891	2024131	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp.3;3=exonerate:est2genome,exon,2023891,2024131,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2017796	2018653	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp.3
+4	exonerate_est2genome	transcript	1776680	1920262	8882	-	.	ID=EST:Ha-pnr-wing-H-hsp.4;vulgar=Ha-pnr-wing-H-hsp 3 1817 + 4 1920262 1776679 - 8882 M 91 91 G 0 1 M 91 91 5 0 2 I 0 111625 3 0 2 M 361 361 5 0 2 I 0 15651 3 0 2 M 173 173 5 0 2 I 0 6624 3 0 2 M 241 241 5 0 2 I 0 7851 3 0 2 M 601 601 G 0 1 M 256 256
+4	exonerate_est2genome	exon	1920080	1920262	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp.4;4=exonerate:est2genome,exon,1920080,1920262,.,-,.,insertions,1
+4	exonerate_est2genome	exon	1808090	1808450	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp.4;4=exonerate:est2genome,exon,1808090,1808450,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1792262	1792434	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp.4;4=exonerate:est2genome,exon,1792262,1792434,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1785393	1785633	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp.4;4=exonerate:est2genome,exon,1785393,1785633,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1776680	1777537	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp.4
+2	exonerate_est2genome	transcript	1988125	1998456	20917	+	.	ID=EST:TCONS_00012343.2;vulgar=TCONS_00012343 0 4387 + 3 1988124 1998456 + 20917 M 301 301 5 0 2 I 0 52 3 0 2 M 176 176 5 0 2 I 0 54 3 0 2 M 243 243 5 0 2 I 0 50 3 0 2 M 76 76 5 0 2 I 0 61 3 0 2 M 314 314 5 0 2 I 0 2137 3 0 2 M 189 189 5 0 2 I 0 95 3 0 2 M 313 313 5 0 2 I 0 171 3 0 2 M 193 193 5 0 2 I 0 2123 3 0 2 M 338 338 5 0 2 I 0 142 3 0 2 M 221 221 5 0 2 I 0 937 3 0 2 M 618 618 5 0 2 I 0 88 3 0 2 M 1215 1215 G 1 0 M 46 46 G 6 0 M 26 26 G 0 1 M 11 11 G 3 0 M 10 10 G 0 1 M 5 5 G 2 0 M 9 9 G 1 0 M 1 1 G 2 0 M 9 9 G 0 1 M 31 31 G 0 5 M 11 11 G 1 0 M 2 2 G 1 0 M 12 12
+2	exonerate_est2genome	exon	1988125	1988425	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1988125,1988425,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1988482	1988657	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1988482,1988657,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1988716	1988958	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1988716,1988958,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1989013	1989088	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1989013,1989088,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1989154	1989467	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1989154,1989467,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1991609	1991797	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1991609,1991797,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1991897	1992209	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1991897,1992209,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1992385	1992577	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1992385,1992577,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1994705	1995042	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1994705,1995042,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1995189	1995409	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1995189,1995409,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1996351	1996968	.	+	.	Parent=EST:TCONS_00012343.2;3=exonerate:est2genome,exon,1996351,1996968,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1997061	1998456	.	+	.	Parent=EST:TCONS_00012343.2
+4	exonerate_est2genome	transcript	1747365	1757037	21550	+	.	ID=EST:TCONS_00012343.6;vulgar=TCONS_00012343 0 4415 + 4 1747364 1757037 + 21550 M 301 301 5 0 2 I 0 52 3 0 2 M 176 176 5 0 2 I 0 54 3 0 2 M 243 243 5 0 2 I 0 50 3 0 2 M 76 76 5 0 2 I 0 61 3 0 2 M 314 314 5 0 2 I 0 1426 3 0 2 M 189 189 5 0 2 I 0 95 3 0 2 M 313 313 5 0 2 I 0 180 3 0 2 M 193 193 5 0 2 I 0 2088 3 0 2 M 338 338 5 0 2 I 0 142 3 0 2 M 221 221 5 0 2 I 0 976 3 0 2 M 618 618 5 0 2 I 0 88 3 0 2 M 652 652 G 2 0 M 148 148 G 0 2 M 413 413 G 1 0 M 62 62 G 0 2 M 4 4 G 0 1 M 151 151
+4	exonerate_est2genome	exon	1747365	1747665	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1747365,1747665,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1747722	1747897	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1747722,1747897,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1747956	1748198	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1747956,1748198,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1748253	1748328	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1748253,1748328,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1748394	1748707	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1748394,1748707,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1750138	1750326	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1750138,1750326,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1750426	1750738	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1750426,1750738,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1750923	1751115	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1750923,1751115,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1753208	1753545	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1753208,1753545,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1753692	1753912	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1753692,1753912,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1754893	1755510	.	+	.	Parent=EST:TCONS_00012343.6;4=exonerate:est2genome,exon,1754893,1755510,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1755603	1757037	.	+	.	Parent=EST:TCONS_00012343.6
+3	exonerate_est2genome	transcript	1094398	1105568	18299	-	.	ID=EST:TCONS_00012348;vulgar=TCONS_00012348 1 3838 + 1 1105568 1094397 - 18299 M 242 242 5 0 2 I 0 2895 3 0 2 M 352 352 G 2 0 M 2 2 G 1 0 M 4 4 G 2 0 M 5 5 G 5 0 M 3 3 G 7 0 M 127 127 5 0 2 I 0 791 3 0 2 M 198 198 5 0 2 I 0 221 3 0 2 M 42 42 5 0 2 I 0 50 3 0 2 M 141 141 5 0 2 I 0 301 3 0 2 M 77 77 5 0 2 I 0 54 3 0 2 M 67 67 5 0 2 I 0 48 3 0 2 M 146 146 5 0 2 I 0 160 3 0 2 M 121 121 5 0 2 I 0 241 3 0 2 M 171 171 5 0 2 I 0 61 3 0 2 M 86 86 5 0 2 I 0 468 3 0 2 M 49 49 5 0 2 I 0 50 3 0 2 M 90 90 5 0 2 I 0 54 3 0 2 M 87 87 5 0 2 I 0 124 3 0 2 M 312 312 5 0 2 I 0 600 3 0 2 M 91 91 5 0 2 I 0 58 3 0 2 M 181 181 5 0 2 I 0 112 3 0 2 M 93 93 5 0 2 I 0 53 3 0 2 M 97 97 5 0 2 I 0 714 3 0 2 M 144 144 5 0 2 I 0 214 3 0 2 M 506 506 G 0 2 M 386 386
+3	exonerate_est2genome	exon	1105327	1105568	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1105327,1105568,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1101935	1102427	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1101935,1102427,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1100942	1101139	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1100942,1101139,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1100675	1100716	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1100675,1100716,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1100480	1100620	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1100480,1100620,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1100098	1100174	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1100098,1100174,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1099973	1100039	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1099973,1100039,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1099775	1099920	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1099775,1099920,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1099490	1099610	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1099490,1099610,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1099074	1099244	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1099074,1099244,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1098923	1099008	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1098923,1099008,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1098402	1098450	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1098402,1098450,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1098258	1098347	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1098258,1098347,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1098113	1098199	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1098113,1098199,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1097673	1097984	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1097673,1097984,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1096978	1097068	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1096978,1097068,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1096735	1096915	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1096735,1096915,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1096526	1096618	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1096526,1096618,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1096372	1096468	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1096372,1096468,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1095510	1095653	.	-	.	Parent=EST:TCONS_00012348;1=exonerate:est2genome,exon,1095510,1095653,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1094398	1095291	.	-	.	Parent=EST:TCONS_00012348
+2	exonerate_est2genome	transcript	2001355	2009411	18678	+	.	ID=EST:TCONS_00012348.2;vulgar=TCONS_00012348 1 3838 + 3 2001354 2009411 + 18678 M 752 752 5 0 2 I 0 814 3 0 2 M 198 198 5 0 2 I 0 220 3 0 2 M 42 42 5 0 2 I 0 50 3 0 2 M 141 141 5 0 2 I 0 298 3 0 2 M 77 77 5 0 2 I 0 54 3 0 2 M 67 67 5 0 2 I 0 48 3 0 2 M 146 146 5 0 2 I 0 160 3 0 2 M 121 121 5 0 2 I 0 241 3 0 2 M 171 171 5 0 2 I 0 61 3 0 2 M 86 86 5 0 2 I 0 468 3 0 2 M 49 49 5 0 2 I 0 50 3 0 2 M 90 90 5 0 2 I 0 54 3 0 2 M 87 87 5 0 2 I 0 124 3 0 2 M 312 312 5 0 2 I 0 348 3 0 2 M 91 91 5 0 2 I 0 58 3 0 2 M 181 181 5 0 2 I 0 112 3 0 2 M 93 93 5 0 2 I 0 53 3 0 2 M 97 97 5 0 2 I 0 714 3 0 2 M 144 144 5 0 2 I 0 215 3 0 2 M 506 506 G 0 2 M 386 386
+2	exonerate_est2genome	exon	2001355	2002106	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2001355,2002106,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2002925	2003122	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2002925,2003122,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2003347	2003388	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2003347,2003388,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2003443	2003583	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2003443,2003583,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2003886	2003962	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2003886,2003962,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2004021	2004087	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2004021,2004087,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2004140	2004285	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2004140,2004285,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2004450	2004570	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2004450,2004570,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2004816	2004986	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2004816,2004986,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2005052	2005137	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2005052,2005137,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2005610	2005658	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2005610,2005658,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2005713	2005802	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2005713,2005802,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2005861	2005947	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2005861,2005947,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2006076	2006387	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2006076,2006387,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2006740	2006830	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2006740,2006830,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2006893	2007073	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2006893,2007073,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2007190	2007282	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2007190,2007282,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2007340	2007436	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2007340,2007436,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2008155	2008298	.	+	.	Parent=EST:TCONS_00012348.2;3=exonerate:est2genome,exon,2008155,2008298,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2008518	2009411	.	+	.	Parent=EST:TCONS_00012348.2
+4	exonerate_est2genome	transcript	1759935	1768208	18621	+	.	ID=EST:TCONS_00012348.3;vulgar=TCONS_00012349 0 3620 + 4 1760214 1768208 + 17556 M 472 472 5 0 2 I 0 792 3 0 2 M 198 198 5 0 2 I 0 220 3 0 2 M 42 42 5 0 2 I 0 50 3 0 2 M 141 141 5 0 2 I 0 290 3 0 2 M 77 77 5 0 2 I 0 54 3 0 2 M 67 67 5 0 2 I 0 48 3 0 2 M 146 146 5 0 2 I 0 160 3 0 2 M 121 121 5 0 2 I 0 244 3 0 2 M 171 171 5 0 2 I 0 61 3 0 2 M 86 86 5 0 2 I 0 468 3 0 2 M 49 49 5 0 2 I 0 50 3 0 2 M 235 235 5 0 2 I 0 124 3 0 2 M 312 312 5 0 2 I 0 589 3 0 2 M 96 96 5 0 2 I 0 58 3 0 2 M 181 181 5 0 2 I 0 112 3 0 2 M 93 93 5 0 2 I 0 53 3 0 2 M 97 97 5 0 2 I 0 714 3 0 2 M 144 144 5 0 2 I 0 215 3 0 2 M 506 506 G 0 2 M 19 19 G 2 0 M 365 365
+4	exonerate_est2genome	exon	1759935	1760686	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1759935,1760686,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1761483	1761680	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1761483,1761680,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1761905	1761946	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1761905,1761946,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1762001	1762141	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1762001,1762141,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1762436	1762512	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1762436,1762512,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1762571	1762637	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1762571,1762637,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1762690	1762835	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1762690,1762835,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1763000	1763120	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1763000,1763120,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1763369	1763539	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1763369,1763539,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1763605	1763690	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1763605,1763690,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1764163	1764211	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1764163,1764211,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1764266	1764355	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1764266,1764355,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1764414	1764500	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1764414,1764500,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1764629	1764940	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1764629,1764940,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1765539	1765629	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1765539,1765629,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1765692	1765872	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1765692,1765872,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1765989	1766081	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1765989,1766081,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1766139	1766235	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1766139,1766235,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1766954	1767097	.	+	.	Parent=EST:TCONS_00012348.3;4=exonerate:est2genome,exon,1766954,1767097,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1767317	1768208	.	+	.	Parent=EST:TCONS_00012348.3
+2	exonerate_est2genome	transcript	2431346	2469408	12868	-	.	ID=EST:TCONS_00011525.3;vulgar=TCONS_00011525 0 2631 + 3 2469408 2431345 - 12868 M 391 391 5 0 2 I 0 408 3 0 2 M 105 105 5 0 2 I 0 19489 3 0 2 M 226 226 5 0 2 I 0 2696 3 0 2 M 388 388 5 0 2 I 0 12815 3 0 2 M 829 829 G 4 0 M 279 279 G 0 8 M 4 4 G 0 3 M 185 185 G 0 1 M 220 220
+2	exonerate_est2genome	exon	2469018	2469408	.	-	.	Parent=EST:TCONS_00011525.3;3=exonerate:est2genome,exon,2469018,2469408,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2468501	2468605	.	-	.	Parent=EST:TCONS_00011525.3;3=exonerate:est2genome,exon,2468501,2468605,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2448782	2449007	.	-	.	Parent=EST:TCONS_00011525.3;3=exonerate:est2genome,exon,2448782,2449007,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2445694	2446081	.	-	.	Parent=EST:TCONS_00011525.3;3=exonerate:est2genome,exon,2445694,2446081,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2431346	2432874	.	-	.	Parent=EST:TCONS_00011525.3
+4	exonerate_est2genome	transcript	2167657	2201614	12912	-	.	ID=EST:TCONS_00011525.4;vulgar=TCONS_00011525 0 2631 + 4 2201614 2167656 - 12912 M 391 391 5 0 2 I 0 408 3 0 2 M 105 105 5 0 2 I 0 18610 3 0 2 M 226 226 5 0 2 I 0 2675 3 0 2 M 388 388 5 0 2 I 0 9606 3 0 2 M 1112 1112 G 0 8 M 4 4 G 0 3 M 184 184 G 0 1 M 221 221
+4	exonerate_est2genome	exon	2201224	2201614	.	-	.	Parent=EST:TCONS_00011525.4;4=exonerate:est2genome,exon,2201224,2201614,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2200707	2200811	.	-	.	Parent=EST:TCONS_00011525.4;4=exonerate:est2genome,exon,2200707,2200811,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2181867	2182092	.	-	.	Parent=EST:TCONS_00011525.4;4=exonerate:est2genome,exon,2181867,2182092,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2178800	2179187	.	-	.	Parent=EST:TCONS_00011525.4;4=exonerate:est2genome,exon,2178800,2179187,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2167657	2169189	.	-	.	Parent=EST:TCONS_00011525.4
+4	exonerate_est2genome	transcript	2276106	2278860	4579	-	.	ID=EST:TCONS_00011523.4;vulgar=TCONS_00011524 1 1200 + 4 2326278 2203191 - 4994 M 9 9 G 1 0 M 12 12 G 0 3 M 7 7 G 0 3 M 6 6 G 0 2 M 7 7 G 0 1 M 13 13 G 1 0 M 12 12 G 0 5 M 23 23 G 0 1 M 9 9 5 0 2 I 0 121736 3 0 2 M 6 6 G 0 3 M 36 36 G 1 0 M 12 12 G 3 0 M 6 6 G 1 0 M 3 3 G 4 0 M 14 14 G 0 9 M 7 7 G 0 1 M 316 316 5 0 2 I 0 46 3 0 2 M 261 261 5 0 2 I 0 77 3 0 2 M 429 429
+4	exonerate_est2genome	exon	2278604	2278860	.	-	.	Parent=EST:TCONS_00011523.4;4=exonerate:est2genome,exon,2278604,2278860,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2278374	2278551	.	-	.	Parent=EST:TCONS_00011523.4;4=exonerate:est2genome,exon,2278374,2278551,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2278173	2278305	.	-	.	Parent=EST:TCONS_00011523.4;4=exonerate:est2genome,exon,2278173,2278305,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2277955	2278119	.	-	.	Parent=EST:TCONS_00011523.4;4=exonerate:est2genome,exon,2277955,2278119,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2276106	2276303	.	-	.	Parent=EST:TCONS_00011523.4
+3	exonerate_est2genome	transcript	1084786	1088630	15097	-	.	ID=EST:TCONS_00012360.2;vulgar=TCONS_00012360 0 3106 + 1 1088630 1084785 - 15097 M 170 170 5 0 2 I 0 221 3 0 2 M 101 101 5 0 2 I 0 46 3 0 2 M 300 300 5 0 2 I 0 57 3 0 2 M 248 248 5 0 2 I 0 57 3 0 2 M 162 162 5 0 2 I 0 52 3 0 2 M 128 128 5 0 2 I 0 60 3 0 2 M 124 124 G 0 2 M 2 2 G 0 2 M 32 32 G 0 1 M 85 85 G 1 0 M 43 43 G 0 1 M 1 1 5 0 2 I 0 169 3 0 2 M 403 403 5 0 2 I 0 35 3 0 2 M 126 126 G 0 1 M 435 435 G 0 4 M 745 745
+3	exonerate_est2genome	exon	1088461	1088630	.	-	.	Parent=EST:TCONS_00012360.2;1=exonerate:est2genome,exon,1088461,1088630,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1088135	1088235	.	-	.	Parent=EST:TCONS_00012360.2;1=exonerate:est2genome,exon,1088135,1088235,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1087785	1088084	.	-	.	Parent=EST:TCONS_00012360.2;1=exonerate:est2genome,exon,1087785,1088084,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1087476	1087723	.	-	.	Parent=EST:TCONS_00012360.2;1=exonerate:est2genome,exon,1087476,1087723,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1087253	1087414	.	-	.	Parent=EST:TCONS_00012360.2;1=exonerate:est2genome,exon,1087253,1087414,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1087069	1087196	.	-	.	Parent=EST:TCONS_00012360.2;1=exonerate:est2genome,exon,1087069,1087196,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1086712	1087004	.	-	.	Parent=EST:TCONS_00012360.2;1=exonerate:est2genome,exon,1086712,1087004,.,-,.,insertions,6
+3	exonerate_est2genome	exon	1086136	1086538	.	-	.	Parent=EST:TCONS_00012360.2;1=exonerate:est2genome,exon,1086136,1086538,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1084786	1086096	.	-	.	Parent=EST:TCONS_00012360.2
+2	exonerate_est2genome	transcript	2015263	2018889	15207	+	.	ID=EST:TCONS_00012360.7;vulgar=TCONS_00012360 0 3106 + 3 2015262 2018889 + 15207 M 170 170 5 0 2 I 0 221 3 0 2 M 101 101 5 0 2 I 0 46 3 0 2 M 300 300 5 0 2 I 0 57 3 0 2 M 248 248 5 0 2 I 0 57 3 0 2 M 162 162 5 0 2 I 0 52 3 0 2 M 128 128 5 0 2 I 0 60 3 0 2 M 158 158 G 0 1 M 414 414 G 2 0 M 243 243 G 0 1 M 435 435 G 0 4 M 745 745
+2	exonerate_est2genome	exon	2015263	2015432	.	+	.	Parent=EST:TCONS_00012360.7;3=exonerate:est2genome,exon,2015263,2015432,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2015658	2015758	.	+	.	Parent=EST:TCONS_00012360.7;3=exonerate:est2genome,exon,2015658,2015758,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2015809	2016108	.	+	.	Parent=EST:TCONS_00012360.7;3=exonerate:est2genome,exon,2015809,2016108,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2016170	2016417	.	+	.	Parent=EST:TCONS_00012360.7;3=exonerate:est2genome,exon,2016170,2016417,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2016479	2016640	.	+	.	Parent=EST:TCONS_00012360.7;3=exonerate:est2genome,exon,2016479,2016640,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2016697	2016824	.	+	.	Parent=EST:TCONS_00012360.7;3=exonerate:est2genome,exon,2016697,2016824,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2016889	2018889	.	+	.	Parent=EST:TCONS_00012360.7
+4	exonerate_est2genome	transcript	1774145	1777773	15236	+	.	ID=EST:TCONS_00012360.9;vulgar=TCONS_00012360 0 3106 + 4 1774144 1777773 + 15236 M 170 170 5 0 2 I 0 221 3 0 2 M 101 101 5 0 2 I 0 46 3 0 2 M 300 300 5 0 2 I 0 57 3 0 2 M 248 248 5 0 2 I 0 57 3 0 2 M 162 162 5 0 2 I 0 52 3 0 2 M 128 128 5 0 2 I 0 60 3 0 2 M 158 158 G 0 1 M 659 659 G 0 1 M 435 435 G 0 4 M 745 745
+4	exonerate_est2genome	exon	1774145	1774314	.	+	.	Parent=EST:TCONS_00012360.9;4=exonerate:est2genome,exon,1774145,1774314,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1774540	1774640	.	+	.	Parent=EST:TCONS_00012360.9;4=exonerate:est2genome,exon,1774540,1774640,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1774691	1774990	.	+	.	Parent=EST:TCONS_00012360.9;4=exonerate:est2genome,exon,1774691,1774990,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1775052	1775299	.	+	.	Parent=EST:TCONS_00012360.9;4=exonerate:est2genome,exon,1775052,1775299,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1775361	1775522	.	+	.	Parent=EST:TCONS_00012360.9;4=exonerate:est2genome,exon,1775361,1775522,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1775579	1775706	.	+	.	Parent=EST:TCONS_00012360.9;4=exonerate:est2genome,exon,1775579,1775706,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1775771	1777773	.	+	.	Parent=EST:TCONS_00012360.9
+3	exonerate_est2genome	transcript	1106642	1107737	4932	+	.	ID=EST:TCONS_00012376;vulgar=TCONS_00012376 0 1020 + 1 1106641 1107737 + 4932 M 123 123 5 0 2 I 0 72 3 0 2 M 897 897
+3	exonerate_est2genome	exon	1106642	1106764	.	+	.	Parent=EST:TCONS_00012376;1=exonerate:est2genome,exon,1106642,1106764,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1106841	1107737	.	+	.	Parent=EST:TCONS_00012376
+3	exonerate_est2genome	transcript	1226322	1256629	34143	+	.	ID=EST:TCONS_00012372;vulgar=TCONS_00012372 0 7184 + 1 1226321 1256629 + 34143 M 33 33 G 1 0 M 316 316 5 0 2 I 0 8774 3 0 2 M 46 46 5 0 2 I 0 8006 3 0 2 M 182 182 5 0 2 I 0 2652 3 0 2 M 311 311 G 2 0 M 8 8 G 1 0 M 19 19 G 1 0 M 2 2 G 2 0 M 2 2 G 2 0 M 4 4 G 1 0 M 2 2 G 6 0 M 52 52 G 0 3 M 8 8 G 0 3 M 12 12 G 0 1 M 4 4 G 0 2 M 2 2 G 0 1 M 17 17 G 1 0 M 4 4 G 2 0 M 1 1 G 1 0 M 5 5 G 2 0 M 1 1 G 1 0 M 6 6 G 4 0 M 2 2 G 1 0 M 1 1 G 2 0 M 3 3 G 0 1 M 13 13 G 2 0 M 6 6 G 1 0 M 11 11 G 3 0 M 18 18 G 1 0 M 1 1 G 2 0 M 14 14 G 9 0 M 367 367 5 0 2 I 0 126 3 0 2 M 243 243 5 0 2 I 0 78 3 0 2 M 222 222 5 0 2 I 0 52 3 0 2 M 306 306 5 0 2 I 0 85 3 0 2 M 468 468 5 0 2 I 0 471 3 0 2 M 384 384 5 0 2 I 0 70 3 0 2 M 1039 1039 5 0 2 I 0 607 3 0 2 M 546 546 5 0 2 I 0 253 3 0 2 M 390 390 5 0 2 I 0 52 3 0 2 M 1241 1241 5 0 2 I 0 1883 3 0 2 M 824 824
+3	exonerate_est2genome	exon	1226322	1226670	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1226322,1226670,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1235449	1235494	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1235449,1235494,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1243505	1243686	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1243505,1243686,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1246343	1247249	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1246343,1247249,.,+,.,insertions,11
+3	exonerate_est2genome	exon	1247380	1247622	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1247380,1247622,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1247705	1247926	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1247705,1247926,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1247983	1248288	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1247983,1248288,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1248378	1248845	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1248378,1248845,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1249321	1249704	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1249321,1249704,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1249779	1250817	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1249779,1250817,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1251429	1251974	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1251429,1251974,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1252232	1252621	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1252232,1252621,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1252678	1253918	.	+	.	Parent=EST:TCONS_00012372;1=exonerate:est2genome,exon,1252678,1253918,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1255806	1256629	.	+	.	Parent=EST:TCONS_00012372
+3	exonerate_est2genome	transcript	1137911	1140004	8003	+	.	ID=EST:TCONS_00012373;vulgar=TCONS_00012373 0 1616 + 1 1137910 1140004 + 8003 M 234 234 5 0 2 I 0 91 3 0 2 M 400 400 5 0 2 I 0 379 3 0 2 M 982 982
+3	exonerate_est2genome	exon	1137911	1138144	.	+	.	Parent=EST:TCONS_00012373;1=exonerate:est2genome,exon,1137911,1138144,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1138240	1138639	.	+	.	Parent=EST:TCONS_00012373;1=exonerate:est2genome,exon,1138240,1138639,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1139023	1140004	.	+	.	Parent=EST:TCONS_00012373
+3	exonerate_est2genome	transcript	1121304	1122978	4447	+	.	ID=EST:TCONS_00012375;vulgar=TCONS_00012375 195 1111 + 1 1121303 1122978 + 4447 M 13 13 G 0 5 M 324 324 5 0 2 I 0 54 3 0 2 M 218 218 5 0 2 I 0 51 3 0 2 M 103 103 5 0 2 I 0 637 3 0 2 M 258 258
+3	exonerate_est2genome	exon	1121304	1121645	.	+	.	Parent=EST:TCONS_00012375;1=exonerate:est2genome,exon,1121304,1121645,.,+,.,insertions,5
+3	exonerate_est2genome	exon	1121704	1121921	.	+	.	Parent=EST:TCONS_00012375;1=exonerate:est2genome,exon,1121704,1121921,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1121977	1122079	.	+	.	Parent=EST:TCONS_00012375;1=exonerate:est2genome,exon,1121977,1122079,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1122721	1122978	.	+	.	Parent=EST:TCONS_00012375
+3	exonerate_est2genome	transcript	1128279	1131499	10947	+	.	ID=EST:TCONS_00012374;vulgar=TCONS_00012374 0 2228 + 1 1128278 1131499 + 10947 M 155 155 G 1 0 M 85 85 5 0 2 I 0 990 3 0 2 M 1987 1987
+3	exonerate_est2genome	exon	1128279	1128518	.	+	.	Parent=EST:TCONS_00012374;1=exonerate:est2genome,exon,1128279,1128518,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1129513	1131499	.	+	.	Parent=EST:TCONS_00012374
+5	exonerate_est2genome	transcript	1954142	1957486	6976	+	.	ID=EST:TCONS_00012374.2;vulgar=TCONS_00012374 7 2228 + 2 1954141 1957486 + 6976 M 4 4 G 0 2 M 93 93 G 0 1 M 11 11 G 4 0 M 5 5 G 0 1 M 1 1 G 0 1 M 9 9 G 2 0 M 4 4 G 0 2 M 14 14 G 1 0 M 18 18 G 1 0 M 13 13 G 0 1 M 8 8 G 1 0 M 45 45 5 0 2 I 0 1031 3 0 2 M 1320 1320 G 0 1 M 8 8 G 3 0 M 2 2 5 0 2 I 0 28 3 0 2 M 8 8 G 3 0 M 2 2 G 1 0 M 23 23 G 0 2 M 11 11 G 0 1 M 15 15 G 0 1 M 15 15 G 0 2 M 39 39 G 0 1 M 12 12 G 0 4 M 3 3 G 0 6 M 12 12 G 1 0 M 9 9 G 2 0 M 20 20 G 0 2 M 7 7 G 2 0 M 6 6 5 0 2 I 0 26 3 0 2 M 3 3 G 2 0 M 34 34 G 0 5 M 3 3 G 0 4 M 14 14 G 0 2 M 4 4 G 1 0 M 74 74 G 1 0 M 96 96 G 1 0 M 34 34 G 0 1 M 25 25 G 0 3 M 5 5 G 0 9 M 7 7 G 0 4 M 20 20 G 1 0 M 21 21 G 1 0 M 12 12 G 2 0 M 94 94 G 0 1 M 8 8
+5	exonerate_est2genome	exon	1954142	1954374	.	+	.	Parent=EST:TCONS_00012374.2;2=exonerate:est2genome,exon,1954142,1954374,.,+,.,insertions,8
+5	exonerate_est2genome	exon	1955410	1956740	.	+	.	Parent=EST:TCONS_00012374.2;2=exonerate:est2genome,exon,1955410,1956740,.,+,.,insertions,1
+5	exonerate_est2genome	exon	1956773	1956973	.	+	.	Parent=EST:TCONS_00012374.2;2=exonerate:est2genome,exon,1956773,1956973,.,+,.,insertions,19
+5	exonerate_est2genome	exon	1957004	1957486	.	+	.	Parent=EST:TCONS_00012374.2
+2	exonerate_est2genome	transcript	1999003	2000269	5517	-	.	ID=EST:TCONS_00012376.2;vulgar=TCONS_00012376 0 1164 + 3 2000269 1999002 - 5517 M 123 123 5 0 2 I 0 72 3 0 2 M 560 560 G 0 2 M 322 322 5 0 2 I 0 27 3 0 2 M 2 2 G 2 0 M 3 3 G 1 0 M 5 5 G 3 0 M 143 143
+2	exonerate_est2genome	exon	2000147	2000269	.	-	.	Parent=EST:TCONS_00012376.2;3=exonerate:est2genome,exon,2000147,2000269,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1999187	2000070	.	-	.	Parent=EST:TCONS_00012376.2;3=exonerate:est2genome,exon,1999187,2000070,.,-,.,insertions,2
+2	exonerate_est2genome	exon	1999003	1999155	.	-	.	Parent=EST:TCONS_00012376.2
+2	exonerate_est2genome	transcript	1856758	1885897	35292	-	.	ID=EST:TCONS_00012372.12;vulgar=TCONS_00012372 0 7184 + 3 1885897 1856757 - 35292 M 350 350 5 0 2 I 0 8656 3 0 2 M 46 46 5 0 2 I 0 7681 3 0 2 M 182 182 5 0 2 I 0 2345 3 0 2 M 943 943 5 0 2 I 0 126 3 0 2 M 243 243 5 0 2 I 0 78 3 0 2 M 222 222 5 0 2 I 0 52 3 0 2 M 306 306 5 0 2 I 0 85 3 0 2 M 468 468 5 0 2 I 0 471 3 0 2 M 384 384 5 0 2 I 0 70 3 0 2 M 1039 1039 5 0 2 I 0 615 3 0 2 M 546 546 5 0 2 I 0 258 3 0 2 M 390 390 5 0 2 I 0 52 3 0 2 M 1241 1241 5 0 2 I 0 1415 3 0 2 M 824 824
+2	exonerate_est2genome	exon	1885548	1885897	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1885548,1885897,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1876842	1876887	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1876842,1876887,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1868975	1869156	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1868975,1869156,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1865683	1866625	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1865683,1866625,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1865310	1865552	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1865310,1865552,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1865006	1865227	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1865006,1865227,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1864644	1864949	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1864644,1864949,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1864087	1864554	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1864087,1864554,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1863228	1863611	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1863228,1863611,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1862115	1863153	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1862115,1863153,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1860950	1861495	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1860950,1861495,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1860298	1860687	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1860298,1860687,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1859001	1860241	.	-	.	Parent=EST:TCONS_00012372.12;3=exonerate:est2genome,exon,1859001,1860241,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1856758	1857581	.	-	.	Parent=EST:TCONS_00012372.12
+2	exonerate_est2genome	transcript	1973744	1976962	10957	-	.	ID=EST:TCONS_00012374.3;vulgar=TCONS_00012374 0 2228 + 3 1976962 1973743 - 10957 M 155 155 G 1 0 M 85 85 5 0 2 I 0 990 3 0 2 M 1496 1496 G 2 0 M 489 489
+2	exonerate_est2genome	exon	1976723	1976962	.	-	.	Parent=EST:TCONS_00012374.3;3=exonerate:est2genome,exon,1976723,1976962,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1973744	1975728	.	-	.	Parent=EST:TCONS_00012374.3
+2	exonerate_est2genome	transcript	1982027	1983886	5359	-	.	ID=EST:TCONS_00012375.2;vulgar=TCONS_00012375 0 1111 + 3 1983886 1982026 - 5359 M 187 187 G 9 0 M 2 2 G 2 0 M 332 332 5 0 2 I 0 54 3 0 2 M 218 218 5 0 2 I 0 51 3 0 2 M 103 103 5 0 2 I 0 642 3 0 2 M 88 88 G 0 1 M 170 170
+2	exonerate_est2genome	exon	1983366	1983886	.	-	.	Parent=EST:TCONS_00012375.2;3=exonerate:est2genome,exon,1983366,1983886,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1983090	1983307	.	-	.	Parent=EST:TCONS_00012375.2;3=exonerate:est2genome,exon,1983090,1983307,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1982932	1983034	.	-	.	Parent=EST:TCONS_00012375.2;3=exonerate:est2genome,exon,1982932,1983034,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1982027	1982285	.	-	.	Parent=EST:TCONS_00012375.2
+2	exonerate_est2genome	transcript	1965215	1967308	7994	-	.	ID=EST:TCONS_00012373.2;vulgar=TCONS_00012373 0 1616 + 3 1967308 1965214 - 7994 M 234 234 5 0 2 I 0 91 3 0 2 M 400 400 5 0 2 I 0 379 3 0 2 M 982 982
+2	exonerate_est2genome	exon	1967075	1967308	.	-	.	Parent=EST:TCONS_00012373.2;3=exonerate:est2genome,exon,1967075,1967308,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1966580	1966979	.	-	.	Parent=EST:TCONS_00012373.2;3=exonerate:est2genome,exon,1966580,1966979,.,-,.,insertions,0
+2	exonerate_est2genome	exon	1965215	1966196	.	-	.	Parent=EST:TCONS_00012373.2
+4	exonerate_est2genome	transcript	1737842	1742630	4823	-	.	ID=EST:TCONS_00012375.3;vulgar=TCONS_00012375 0 1111 + 4 1742630 1737841 - 4823 M 129 129 G 0 2 M 2 2 G 0 1 M 1 1 G 0 1 M 14 14 G 0 3 M 12 12 G 0 1 M 7 7 G 1 0 M 12 12 G 0 6 M 9 9 G 2 0 M 13 13 G 0 1 M 16 16 G 4 0 M 8 8 5 0 2 I 0 2619 3 0 2 M 302 302 5 0 2 I 0 399 3 0 2 M 218 218 5 0 2 I 0 51 3 0 2 M 103 103 5 0 2 I 0 585 3 0 2 M 258 258
+4	exonerate_est2genome	exon	1742393	1742630	.	-	.	Parent=EST:TCONS_00012375.3;4=exonerate:est2genome,exon,1742393,1742630,.,-,.,insertions,15
+4	exonerate_est2genome	exon	1739468	1739769	.	-	.	Parent=EST:TCONS_00012375.3;4=exonerate:est2genome,exon,1739468,1739769,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1738847	1739064	.	-	.	Parent=EST:TCONS_00012375.3;4=exonerate:est2genome,exon,1738847,1739064,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1738689	1738791	.	-	.	Parent=EST:TCONS_00012375.3;4=exonerate:est2genome,exon,1738689,1738791,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1737842	1738099	.	-	.	Parent=EST:TCONS_00012375.3
+4	exonerate_est2genome	transcript	1724472	1726565	7985	-	.	ID=EST:TCONS_00012373.3;vulgar=TCONS_00012373 0 1616 + 4 1726565 1724471 - 7985 M 234 234 5 0 2 I 0 91 3 0 2 M 400 400 5 0 2 I 0 379 3 0 2 M 982 982
+4	exonerate_est2genome	exon	1726332	1726565	.	-	.	Parent=EST:TCONS_00012373.3;4=exonerate:est2genome,exon,1726332,1726565,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1725837	1726236	.	-	.	Parent=EST:TCONS_00012373.3;4=exonerate:est2genome,exon,1725837,1726236,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1724472	1725453	.	-	.	Parent=EST:TCONS_00012373.3
+4	exonerate_est2genome	transcript	1757528	1758857	5875	-	.	ID=EST:TCONS_00012376.4;vulgar=TCONS_00012376 0 1247 + 4 1758857 1757527 - 5875 M 123 123 5 0 2 I 0 72 3 0 2 M 641 641 G 6 0 M 235 235 G 0 2 M 1 1 G 0 3 M 5 5 G 0 1 M 6 6 G 1 0 M 8 8 G 0 1 M 2 2 G 0 1 M 2 2 G 0 6 M 217 217
+4	exonerate_est2genome	exon	1758735	1758857	.	-	.	Parent=EST:TCONS_00012376.4;4=exonerate:est2genome,exon,1758735,1758857,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1757528	1758658	.	-	.	Parent=EST:TCONS_00012376.4
+4	exonerate_est2genome	transcript	1733030	1736255	10971	-	.	ID=EST:TCONS_00012374.4;vulgar=TCONS_00012374 0 2228 + 4 1736255 1733029 - 10971 M 154 154 G 1 0 M 86 86 5 0 2 I 0 995 3 0 2 M 1987 1987
+4	exonerate_est2genome	exon	1736016	1736255	.	-	.	Parent=EST:TCONS_00012374.4;4=exonerate:est2genome,exon,1736016,1736255,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1733030	1735016	.	-	.	Parent=EST:TCONS_00012374.4
+4	exonerate_est2genome	transcript	1603603	1636791	35293	-	.	ID=EST:TCONS_00012372.27;vulgar=TCONS_00012372 0 7184 + 4 1636791 1603602 - 35293 M 350 350 5 0 2 I 0 8469 3 0 2 M 46 46 5 0 2 I 0 8467 3 0 2 M 182 182 5 0 2 I 0 2364 3 0 2 M 943 943 5 0 2 I 0 125 3 0 2 M 243 243 5 0 2 I 0 78 3 0 2 M 222 222 5 0 2 I 0 52 3 0 2 M 306 306 5 0 2 I 0 85 3 0 2 M 468 468 5 0 2 I 0 471 3 0 2 M 384 384 5 0 2 I 0 70 3 0 2 M 1039 1039 5 0 2 I 0 610 3 0 2 M 546 546 5 0 2 I 0 255 3 0 2 M 390 390 5 0 2 I 0 52 3 0 2 M 1241 1241 5 0 2 I 0 4855 3 0 2 M 824 824
+4	exonerate_est2genome	exon	1636442	1636791	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1636442,1636791,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1627923	1627968	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1627923,1627968,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1619270	1619451	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1619270,1619451,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1615959	1616901	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1615959,1616901,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1615587	1615829	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1615587,1615829,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1615283	1615504	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1615283,1615504,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1614921	1615226	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1614921,1615226,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1614364	1614831	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1614364,1614831,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1613505	1613888	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1613505,1613888,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1612392	1613430	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1612392,1613430,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1611232	1611777	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1611232,1611777,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1610583	1610972	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1610583,1610972,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1609286	1610526	.	-	.	Parent=EST:TCONS_00012372.27;4=exonerate:est2genome,exon,1609286,1610526,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1603603	1604426	.	-	.	Parent=EST:TCONS_00012372.27
+3	exonerate_est2genome	transcript	1090211	1095354	10750	+	.	ID=EST:TCONS_00012377;vulgar=TCONS_00012377 0 2199 + 1 1090210 1095354 + 10750 M 158 158 5 0 2 I 0 107 3 0 2 M 573 573 5 0 2 I 0 873 3 0 2 M 412 412 5 0 2 I 0 1947 3 0 2 M 62 62 G 0 3 M 27 27 G 0 1 M 396 396 G 0 2 M 571 571
+3	exonerate_est2genome	exon	1090211	1090368	.	+	.	Parent=EST:TCONS_00012377;1=exonerate:est2genome,exon,1090211,1090368,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1090480	1091052	.	+	.	Parent=EST:TCONS_00012377;1=exonerate:est2genome,exon,1090480,1091052,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1091930	1092341	.	+	.	Parent=EST:TCONS_00012377;1=exonerate:est2genome,exon,1091930,1092341,.,+,.,insertions,0
+3	exonerate_est2genome	exon	1094293	1095354	.	+	.	Parent=EST:TCONS_00012377
+2	exonerate_est2genome	transcript	2008455	2013672	10782	-	.	ID=EST:TCONS_00012377.2;vulgar=TCONS_00012377 0 2199 + 3 2013672 2008454 - 10782 M 158 158 5 0 2 I 0 107 3 0 2 M 573 573 5 0 2 I 0 774 3 0 2 M 412 412 5 0 2 I 0 2120 3 0 2 M 62 62 G 0 3 M 27 27 G 0 1 M 396 396 G 0 2 M 571 571
+2	exonerate_est2genome	exon	2013515	2013672	.	-	.	Parent=EST:TCONS_00012377.2;3=exonerate:est2genome,exon,2013515,2013672,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2012831	2013403	.	-	.	Parent=EST:TCONS_00012377.2;3=exonerate:est2genome,exon,2012831,2013403,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2011641	2012052	.	-	.	Parent=EST:TCONS_00012377.2;3=exonerate:est2genome,exon,2011641,2012052,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2008455	2009516	.	-	.	Parent=EST:TCONS_00012377.2
+4	exonerate_est2genome	transcript	1767254	1772554	10771	-	.	ID=EST:TCONS_00012377.3;vulgar=TCONS_00012377 0 2199 + 4 1772554 1767253 - 10771 M 158 158 5 0 2 I 0 107 3 0 2 M 573 573 5 0 2 I 0 870 3 0 2 M 412 412 5 0 2 I 0 2115 3 0 2 M 94 94 G 2 0 M 370 370 G 2 0 M 17 17 G 0 2 M 571 571
+4	exonerate_est2genome	exon	1772397	1772554	.	-	.	Parent=EST:TCONS_00012377.3;4=exonerate:est2genome,exon,1772397,1772554,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1771713	1772285	.	-	.	Parent=EST:TCONS_00012377.3;4=exonerate:est2genome,exon,1771713,1772285,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1770427	1770838	.	-	.	Parent=EST:TCONS_00012377.3;4=exonerate:est2genome,exon,1770427,1770838,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1767254	1768307	.	-	.	Parent=EST:TCONS_00012377.3
+3	exonerate_est2genome	transcript	1131686	1133218	7191	-	.	ID=EST:TCONS_00012389;vulgar=TCONS_00012389 0 1557 + 1 1133218 1131685 - 7191 M 22 22 G 4 0 M 182 182 G 3 0 M 1 1 G 2 0 M 3 3 G 1 0 M 9 9 G 2 0 M 5 5 G 1 0 M 6 6 G 1 0 M 12 12 G 1 0 M 7 7 G 2 0 M 18 18 G 3 0 M 5 5 G 7 0 M 1248 1248 G 0 3 M 12 12
+3	exonerate_est2genome	exon	1131686	1133218	.	-	.	Parent=EST:TCONS_00012389
+2	exonerate_est2genome	transcript	1972023	1973553	7203	+	.	ID=EST:TCONS_00012389.3;vulgar=TCONS_00012389 0 1557 + 3 1972022 1973553 + 7203 M 22 22 G 4 0 M 182 182 G 3 0 M 1 1 G 2 0 M 3 3 G 1 0 M 9 9 G 2 0 M 5 5 G 1 0 M 6 6 G 1 0 M 12 12 G 1 0 M 7 7 G 2 0 M 18 18 G 1 0 M 1 1 G 1 0 M 5 5 G 7 0 M 1260 1260
+2	exonerate_est2genome	exon	1972023	1973553	.	+	.	Parent=EST:TCONS_00012389.3
+3	exonerate_est2genome	transcript	673394	685049	11448	+	.	ID=EST:TCONS_00011535;vulgar=TCONS_00011535 0 2324 + 1 673393 685049 + 11448 M 284 284 5 0 2 I 0 776 3 0 2 M 132 132 5 0 2 I 0 918 3 0 2 M 345 345 5 0 2 I 0 493 3 0 2 M 394 394 5 0 2 I 0 1350 3 0 2 M 161 161 5 0 2 I 0 2456 3 0 2 M 438 438 5 0 2 I 0 1531 3 0 2 M 258 258 5 0 2 I 0 1780 3 0 2 M 312 312
+3	exonerate_est2genome	exon	673394	673677	.	+	.	Parent=EST:TCONS_00011535;1=exonerate:est2genome,exon,673394,673677,.,+,.,insertions,0
+3	exonerate_est2genome	exon	674458	674589	.	+	.	Parent=EST:TCONS_00011535;1=exonerate:est2genome,exon,674458,674589,.,+,.,insertions,0
+3	exonerate_est2genome	exon	675512	675856	.	+	.	Parent=EST:TCONS_00011535;1=exonerate:est2genome,exon,675512,675856,.,+,.,insertions,0
+3	exonerate_est2genome	exon	676354	676747	.	+	.	Parent=EST:TCONS_00011535;1=exonerate:est2genome,exon,676354,676747,.,+,.,insertions,0
+3	exonerate_est2genome	exon	678102	678262	.	+	.	Parent=EST:TCONS_00011535;1=exonerate:est2genome,exon,678102,678262,.,+,.,insertions,0
+3	exonerate_est2genome	exon	680723	681160	.	+	.	Parent=EST:TCONS_00011535;1=exonerate:est2genome,exon,680723,681160,.,+,.,insertions,0
+3	exonerate_est2genome	exon	682696	682953	.	+	.	Parent=EST:TCONS_00011535;1=exonerate:est2genome,exon,682696,682953,.,+,.,insertions,0
+3	exonerate_est2genome	exon	684738	685049	.	+	.	Parent=EST:TCONS_00011535
+5	exonerate_est2genome	transcript	1379465	1510663	11935	+	.	ID=EST:TCONS_00011532.2;vulgar=TCONS_00011532 0 3105 + 2 1379464 1510663 + 11935 M 364 364 5 0 2 I 0 161 3 0 2 M 344 344 5 0 2 I 0 49 3 0 2 M 213 213 5 0 2 I 0 680 3 0 2 M 144 144 5 0 2 I 0 119950 3 0 2 M 132 132 5 0 2 I 0 880 3 0 2 M 345 345 5 0 2 I 0 1404 3 0 2 M 394 394 5 0 2 I 0 82 3 0 2 M 161 161 5 0 2 I 0 85 3 0 2 M 186 186 G 3 0 M 249 249 5 0 2 I 0 1532 3 0 2 M 258 258 5 0 2 I 0 3235 3 0 2 M 210 210 G 2 0 M 75 75 G 0 1 M 25 25
+5	exonerate_est2genome	exon	1379465	1379828	.	+	.	Parent=EST:TCONS_00011532.2;2=exonerate:est2genome,exon,1379465,1379828,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1379994	1380337	.	+	.	Parent=EST:TCONS_00011532.2;2=exonerate:est2genome,exon,1379994,1380337,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1380391	1380603	.	+	.	Parent=EST:TCONS_00011532.2;2=exonerate:est2genome,exon,1380391,1380603,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1381288	1381431	.	+	.	Parent=EST:TCONS_00011532.2;2=exonerate:est2genome,exon,1381288,1381431,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1501386	1501517	.	+	.	Parent=EST:TCONS_00011532.2;2=exonerate:est2genome,exon,1501386,1501517,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1502402	1502746	.	+	.	Parent=EST:TCONS_00011532.2;2=exonerate:est2genome,exon,1502402,1502746,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1504155	1504548	.	+	.	Parent=EST:TCONS_00011532.2;2=exonerate:est2genome,exon,1504155,1504548,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1504635	1504795	.	+	.	Parent=EST:TCONS_00011532.2;2=exonerate:est2genome,exon,1504635,1504795,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1504885	1505319	.	+	.	Parent=EST:TCONS_00011532.2;2=exonerate:est2genome,exon,1504885,1505319,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1506856	1507113	.	+	.	Parent=EST:TCONS_00011532.2;2=exonerate:est2genome,exon,1506856,1507113,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1510353	1510663	.	+	.	Parent=EST:TCONS_00011532.2
+2	exonerate_est2genome	transcript	2411864	2429169	15303	-	.	ID=EST:TCONS_00011532.3;vulgar=TCONS_00011532 0 3105 + 3 2429169 2411863 - 15303 M 364 364 5 0 2 I 0 162 3 0 2 M 344 344 5 0 2 I 0 48 3 0 2 M 213 213 5 0 2 I 0 232 3 0 2 M 144 144 5 0 2 I 0 4223 3 0 2 M 132 132 5 0 2 I 0 897 3 0 2 M 345 345 5 0 2 I 0 525 3 0 2 M 394 394 5 0 2 I 0 1863 3 0 2 M 161 161 5 0 2 I 0 2551 3 0 2 M 438 438 5 0 2 I 0 1875 3 0 2 M 258 258 5 0 2 I 0 1785 3 0 2 M 312 312
+2	exonerate_est2genome	exon	2428806	2429169	.	-	.	Parent=EST:TCONS_00011532.3;3=exonerate:est2genome,exon,2428806,2429169,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2428296	2428639	.	-	.	Parent=EST:TCONS_00011532.3;3=exonerate:est2genome,exon,2428296,2428639,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2428031	2428243	.	-	.	Parent=EST:TCONS_00011532.3;3=exonerate:est2genome,exon,2428031,2428243,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2427651	2427794	.	-	.	Parent=EST:TCONS_00011532.3;3=exonerate:est2genome,exon,2427651,2427794,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2423292	2423423	.	-	.	Parent=EST:TCONS_00011532.3;3=exonerate:est2genome,exon,2423292,2423423,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2422046	2422390	.	-	.	Parent=EST:TCONS_00011532.3;3=exonerate:est2genome,exon,2422046,2422390,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2421123	2421516	.	-	.	Parent=EST:TCONS_00011532.3;3=exonerate:est2genome,exon,2421123,2421516,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2419095	2419255	.	-	.	Parent=EST:TCONS_00011532.3;3=exonerate:est2genome,exon,2419095,2419255,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2416102	2416539	.	-	.	Parent=EST:TCONS_00011532.3;3=exonerate:est2genome,exon,2416102,2416539,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2413965	2414222	.	-	.	Parent=EST:TCONS_00011532.3;3=exonerate:est2genome,exon,2413965,2414222,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2411864	2412175	.	-	.	Parent=EST:TCONS_00011532.3
+4	exonerate_est2genome	transcript	2147688	2165725	15372	-	.	ID=EST:TCONS_00011532.4;vulgar=TCONS_00011532 0 3105 + 4 2165725 2147687 - 15372 M 364 364 5 0 2 I 0 162 3 0 2 M 344 344 5 0 2 I 0 49 3 0 2 M 213 213 5 0 2 I 0 231 3 0 2 M 144 144 5 0 2 I 0 6221 3 0 2 M 132 132 5 0 2 I 0 706 3 0 2 M 345 345 5 0 2 I 0 535 3 0 2 M 394 394 5 0 2 I 0 1913 3 0 2 M 161 161 5 0 2 I 0 1770 3 0 2 M 438 438 5 0 2 I 0 1535 3 0 2 M 258 258 5 0 2 I 0 1771 3 0 2 M 312 312
+4	exonerate_est2genome	exon	2165362	2165725	.	-	.	Parent=EST:TCONS_00011532.4;4=exonerate:est2genome,exon,2165362,2165725,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2164852	2165195	.	-	.	Parent=EST:TCONS_00011532.4;4=exonerate:est2genome,exon,2164852,2165195,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2164586	2164798	.	-	.	Parent=EST:TCONS_00011532.4;4=exonerate:est2genome,exon,2164586,2164798,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2164207	2164350	.	-	.	Parent=EST:TCONS_00011532.4;4=exonerate:est2genome,exon,2164207,2164350,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2157850	2157981	.	-	.	Parent=EST:TCONS_00011532.4;4=exonerate:est2genome,exon,2157850,2157981,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2156795	2157139	.	-	.	Parent=EST:TCONS_00011532.4;4=exonerate:est2genome,exon,2156795,2157139,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2155862	2156255	.	-	.	Parent=EST:TCONS_00011532.4;4=exonerate:est2genome,exon,2155862,2156255,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2153784	2153944	.	-	.	Parent=EST:TCONS_00011532.4;4=exonerate:est2genome,exon,2153784,2153944,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2151572	2152009	.	-	.	Parent=EST:TCONS_00011532.4;4=exonerate:est2genome,exon,2151572,2152009,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2149775	2150032	.	-	.	Parent=EST:TCONS_00011532.4;4=exonerate:est2genome,exon,2149775,2150032,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2147688	2147999	.	-	.	Parent=EST:TCONS_00011532.4
+4	exonerate_est2genome	transcript	2224225	2236980	32550	+	.	ID=EST:TCONS_00011574.8;vulgar=TCONS_00011574 3011 9589 + 4 2224224 2236980 + 32550 M 4283 4283 5 0 2 I 0 528 3 0 2 M 275 275 5 0 2 I 0 186 3 0 2 M 90 90 5 0 2 I 0 2344 3 0 2 M 234 234 5 0 2 I 0 1587 3 0 2 M 274 274 5 0 2 I 0 827 3 0 2 M 138 138 5 0 2 I 0 604 3 0 2 M 485 485 5 0 2 I 0 74 3 0 2 M 799 799
+4	exonerate_est2genome	exon	2224225	2228507	.	+	.	Parent=EST:TCONS_00011574.8;4=exonerate:est2genome,exon,2224225,2228507,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2229040	2229314	.	+	.	Parent=EST:TCONS_00011574.8;4=exonerate:est2genome,exon,2229040,2229314,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2229505	2229594	.	+	.	Parent=EST:TCONS_00011574.8;4=exonerate:est2genome,exon,2229505,2229594,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2231943	2232176	.	+	.	Parent=EST:TCONS_00011574.8;4=exonerate:est2genome,exon,2231943,2232176,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2233768	2234041	.	+	.	Parent=EST:TCONS_00011574.8;4=exonerate:est2genome,exon,2233768,2234041,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2234873	2235010	.	+	.	Parent=EST:TCONS_00011574.8;4=exonerate:est2genome,exon,2234873,2235010,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2235619	2236103	.	+	.	Parent=EST:TCONS_00011574.8;4=exonerate:est2genome,exon,2235619,2236103,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2236182	2236980	.	+	.	Parent=EST:TCONS_00011574.8
+4	exonerate_est2genome	transcript	2210210	2224174	14719	+	.	ID=EST:TCONS_00011574.9;vulgar=TCONS_00011574 3011 9589 + 4 2224224 2236980 + 32550 M 4283 4283 5 0 2 I 0 528 3 0 2 M 275 275 5 0 2 I 0 186 3 0 2 M 90 90 5 0 2 I 0 2344 3 0 2 M 234 234 5 0 2 I 0 1587 3 0 2 M 274 274 5 0 2 I 0 827 3 0 2 M 138 138 5 0 2 I 0 604 3 0 2 M 485 485 5 0 2 I 0 74 3 0 2 M 799 799
+4	exonerate_est2genome	exon	2210210	2210466	.	+	.	Parent=EST:TCONS_00011574.9;4=exonerate:est2genome,exon,2210210,2210466,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2221407	2221934	.	+	.	Parent=EST:TCONS_00011574.9;4=exonerate:est2genome,exon,2221407,2221934,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2221994	2224174	.	+	.	Parent=EST:TCONS_00011574.9
+3	exonerate_est2genome	transcript	725541	831267	14753	+	.	ID=EST:TCONS_00011536;vulgar=TCONS_00011536 0 2977 + 1 725540 831267 + 14753 M 288 288 5 0 2 I 0 32597 3 0 2 M 266 266 5 0 2 I 0 428 3 0 2 M 245 245 5 0 2 I 0 31482 3 0 2 M 104 104 5 0 2 I 0 14065 3 0 2 M 258 258 5 0 2 I 0 20676 3 0 2 M 119 119 5 0 2 I 0 1493 3 0 2 M 165 165 5 0 2 I 0 286 3 0 2 M 166 166 5 0 2 I 0 1685 3 0 2 M 215 215 G 0 6 M 1151 1151
+3	exonerate_est2genome	exon	725541	725828	.	+	.	Parent=EST:TCONS_00011536;1=exonerate:est2genome,exon,725541,725828,.,+,.,insertions,0
+3	exonerate_est2genome	exon	758430	758695	.	+	.	Parent=EST:TCONS_00011536;1=exonerate:est2genome,exon,758430,758695,.,+,.,insertions,0
+3	exonerate_est2genome	exon	759128	759372	.	+	.	Parent=EST:TCONS_00011536;1=exonerate:est2genome,exon,759128,759372,.,+,.,insertions,0
+3	exonerate_est2genome	exon	790859	790962	.	+	.	Parent=EST:TCONS_00011536;1=exonerate:est2genome,exon,790859,790962,.,+,.,insertions,0
+3	exonerate_est2genome	exon	805032	805289	.	+	.	Parent=EST:TCONS_00011536;1=exonerate:est2genome,exon,805032,805289,.,+,.,insertions,0
+3	exonerate_est2genome	exon	825970	826088	.	+	.	Parent=EST:TCONS_00011536;1=exonerate:est2genome,exon,825970,826088,.,+,.,insertions,0
+3	exonerate_est2genome	exon	827586	827750	.	+	.	Parent=EST:TCONS_00011536;1=exonerate:est2genome,exon,827586,827750,.,+,.,insertions,0
+3	exonerate_est2genome	exon	828041	828206	.	+	.	Parent=EST:TCONS_00011536;1=exonerate:est2genome,exon,828041,828206,.,+,.,insertions,0
+3	exonerate_est2genome	exon	829896	831267	.	+	.	Parent=EST:TCONS_00011536
+5	exonerate_est2genome	transcript	1524100	1604232	4203	+	.	ID=EST:TCONS_00011536.2;vulgar=TCONS_00011536 0 1454 + 2 1524099 1604232 + 4203 M 22 22 G 1 0 M 34 34 G 0 1 M 48 48 G 2 0 M 6 6 G 0 1 M 4 4 G 0 2 M 74 74 G 0 8 M 97 97 5 0 2 I 0 37976 3 0 2 M 1 1 G 1 0 M 9 9 G 2 0 M 253 253 5 0 2 I 0 2118 3 0 2 M 245 245 5 0 2 I 0 19716 3 0 2 G 0 2 M 9 9 G 1 0 M 14 14 G 0 1 M 3 3 G 0 8 M 4 4 G 0 2 M 9 9 G 0 1 M 30 30 G 1 0 M 5 5 G 0 2 M 25 25 G 0 4 M 113 113 G 6 0 M 142 142 5 0 2 I 0 18074 3 0 2 M 101 101 G 3 0 M 15 15 5 0 2 I 0 760 3 0 2 M 174 174
+5	exonerate_est2genome	exon	1524100	1524396	.	+	.	Parent=EST:TCONS_00011536.2;2=exonerate:est2genome,exon,1524100,1524396,.,+,.,insertions,12
+5	exonerate_est2genome	exon	1562377	1562639	.	+	.	Parent=EST:TCONS_00011536.2;2=exonerate:est2genome,exon,1562377,1562639,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1564762	1565006	.	+	.	Parent=EST:TCONS_00011536.2;2=exonerate:est2genome,exon,1564762,1565006,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1584729	1585100	.	+	.	Parent=EST:TCONS_00011536.2;2=exonerate:est2genome,exon,1584729,1585100,.,+,.,insertions,18
+5	exonerate_est2genome	exon	1603179	1603294	.	+	.	Parent=EST:TCONS_00011536.2;2=exonerate:est2genome,exon,1603179,1603294,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1604059	1604232	.	+	.	Parent=EST:TCONS_00011536.2
+2	exonerate_est2genome	transcript	2269018	2369849	14742	-	.	ID=EST:TCONS_00011536.3;vulgar=TCONS_00011536 0 2977 + 3 2369849 2269017 - 14742 M 288 288 5 0 2 I 0 35642 3 0 2 M 266 266 5 0 2 I 0 428 3 0 2 M 245 245 5 0 2 I 0 25582 3 0 2 M 104 104 5 0 2 I 0 12226 3 0 2 M 258 258 5 0 2 I 0 20507 3 0 2 M 119 119 5 0 2 I 0 1469 3 0 2 M 165 165 5 0 2 I 0 319 3 0 2 M 166 166 5 0 2 I 0 1653 3 0 2 M 218 218 G 3 0 M 1145 1145
+2	exonerate_est2genome	exon	2369562	2369849	.	-	.	Parent=EST:TCONS_00011536.3;3=exonerate:est2genome,exon,2369562,2369849,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2333650	2333915	.	-	.	Parent=EST:TCONS_00011536.3;3=exonerate:est2genome,exon,2333650,2333915,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2332973	2333217	.	-	.	Parent=EST:TCONS_00011536.3;3=exonerate:est2genome,exon,2332973,2333217,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2307283	2307386	.	-	.	Parent=EST:TCONS_00011536.3;3=exonerate:est2genome,exon,2307283,2307386,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2294795	2295052	.	-	.	Parent=EST:TCONS_00011536.3;3=exonerate:est2genome,exon,2294795,2295052,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2274165	2274283	.	-	.	Parent=EST:TCONS_00011536.3;3=exonerate:est2genome,exon,2274165,2274283,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2272527	2272691	.	-	.	Parent=EST:TCONS_00011536.3;3=exonerate:est2genome,exon,2272527,2272691,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2272038	2272203	.	-	.	Parent=EST:TCONS_00011536.3;3=exonerate:est2genome,exon,2272038,2272203,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2269018	2270380	.	-	.	Parent=EST:TCONS_00011536.3
+4	exonerate_est2genome	transcript	2013307	2112750	14745	-	.	ID=EST:TCONS_00011536.4;vulgar=TCONS_00011536 0 2977 + 4 2112750 2013306 - 14745 M 288 288 5 0 2 I 0 33856 3 0 2 M 266 266 5 0 2 I 0 428 3 0 2 M 245 245 5 0 2 I 0 25289 3 0 2 M 104 104 5 0 2 I 0 12163 3 0 2 M 258 258 5 0 2 I 0 20290 3 0 2 M 119 119 5 0 2 I 0 1472 3 0 2 M 165 165 5 0 2 I 0 314 3 0 2 M 166 166 5 0 2 I 0 2617 3 0 2 M 215 215 G 0 6 M 1151 1151
+4	exonerate_est2genome	exon	2112463	2112750	.	-	.	Parent=EST:TCONS_00011536.4;4=exonerate:est2genome,exon,2112463,2112750,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2078337	2078602	.	-	.	Parent=EST:TCONS_00011536.4;4=exonerate:est2genome,exon,2078337,2078602,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2077660	2077904	.	-	.	Parent=EST:TCONS_00011536.4;4=exonerate:est2genome,exon,2077660,2077904,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2052263	2052366	.	-	.	Parent=EST:TCONS_00011536.4;4=exonerate:est2genome,exon,2052263,2052366,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2039838	2040095	.	-	.	Parent=EST:TCONS_00011536.4;4=exonerate:est2genome,exon,2039838,2040095,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2019425	2019543	.	-	.	Parent=EST:TCONS_00011536.4;4=exonerate:est2genome,exon,2019425,2019543,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2017784	2017948	.	-	.	Parent=EST:TCONS_00011536.4;4=exonerate:est2genome,exon,2017784,2017948,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2017300	2017465	.	-	.	Parent=EST:TCONS_00011536.4;4=exonerate:est2genome,exon,2017300,2017465,.,-,.,insertions,0
+4	exonerate_est2genome	exon	2013307	2014678	.	-	.	Parent=EST:TCONS_00011536.4
+3	exonerate_est2genome	transcript	632049	633850	5347	-	.	ID=EST:TCONS_00011576;vulgar=TCONS_00011576 2 1113 + 1 633850 632048 - 5347 M 13 13 G 0 1 M 272 272 5 0 2 I 0 129 3 0 2 M 152 152 5 0 2 I 0 80 3 0 2 M 72 72 5 0 2 I 0 55 3 0 2 M 69 69 5 0 2 I 0 46 3 0 2 M 272 272 5 0 2 I 0 281 3 0 2 M 80 80 5 0 2 I 0 75 3 0 2 M 181 181
+3	exonerate_est2genome	exon	633565	633850	.	-	.	Parent=EST:TCONS_00011576;1=exonerate:est2genome,exon,633565,633850,.,-,.,insertions,1
+3	exonerate_est2genome	exon	633280	633431	.	-	.	Parent=EST:TCONS_00011576;1=exonerate:est2genome,exon,633280,633431,.,-,.,insertions,0
+3	exonerate_est2genome	exon	633124	633195	.	-	.	Parent=EST:TCONS_00011576;1=exonerate:est2genome,exon,633124,633195,.,-,.,insertions,0
+3	exonerate_est2genome	exon	632996	633064	.	-	.	Parent=EST:TCONS_00011576;1=exonerate:est2genome,exon,632996,633064,.,-,.,insertions,0
+3	exonerate_est2genome	exon	632674	632945	.	-	.	Parent=EST:TCONS_00011576;1=exonerate:est2genome,exon,632674,632945,.,-,.,insertions,0
+3	exonerate_est2genome	exon	632309	632388	.	-	.	Parent=EST:TCONS_00011576;1=exonerate:est2genome,exon,632309,632388,.,-,.,insertions,0
+3	exonerate_est2genome	exon	632049	632229	.	-	.	Parent=EST:TCONS_00011576
+5	exonerate_est2genome	transcript	1360990	1362479	2390	-	.	ID=EST:TCONS_00011576.2;vulgar=TCONS_00011576 60 1109 + 2 1362479 1360989 - 2390 M 14 14 G 0 1 M 10 10 G 2 0 M 5 5 G 0 1 M 22 22 G 0 1 M 26 26 G 0 2 M 12 12 G 0 1 M 17 17 G 0 3 M 21 21 G 0 1 M 98 98 5 0 2 I 0 99 3 0 2 M 50 50 G 1 0 M 8 8 G 1 0 M 4 4 G 1 0 M 87 87 5 0 2 I 0 89 3 0 2 M 72 72 5 0 2 I 0 53 3 0 2 M 69 69 5 0 2 I 0 48 3 0 2 M 55 55 G 0 3 M 217 217 5 0 2 I 0 55 3 0 2 M 80 80 5 0 2 I 0 70 3 0 2 M 89 89 G 0 6 M 14 14 G 0 2 M 9 9 G 4 0 M 4 4 G 2 0 M 4 4 G 1 0 M 6 6 G 1 0 M 5 5 G 0 1 M 11 11 G 1 0 M 3 3 G 2 0 M 2 2 G 1 0 M 5 5 G 2 0 M 11 11
+5	exonerate_est2genome	exon	1362245	1362479	.	-	.	Parent=EST:TCONS_00011576.2;2=exonerate:est2genome,exon,1362245,1362479,.,-,.,insertions,10
+5	exonerate_est2genome	exon	1361993	1362141	.	-	.	Parent=EST:TCONS_00011576.2;2=exonerate:est2genome,exon,1361993,1362141,.,-,.,insertions,0
+5	exonerate_est2genome	exon	1361828	1361899	.	-	.	Parent=EST:TCONS_00011576.2;2=exonerate:est2genome,exon,1361828,1361899,.,-,.,insertions,0
+5	exonerate_est2genome	exon	1361702	1361770	.	-	.	Parent=EST:TCONS_00011576.2;2=exonerate:est2genome,exon,1361702,1361770,.,-,.,insertions,0
+5	exonerate_est2genome	exon	1361375	1361649	.	-	.	Parent=EST:TCONS_00011576.2;2=exonerate:est2genome,exon,1361375,1361649,.,-,.,insertions,3
+5	exonerate_est2genome	exon	1361236	1361315	.	-	.	Parent=EST:TCONS_00011576.2;2=exonerate:est2genome,exon,1361236,1361315,.,-,.,insertions,0
+5	exonerate_est2genome	exon	1360990	1361161	.	-	.	Parent=EST:TCONS_00011576.2
+2	exonerate_est2genome	transcript	2475437	2477239	5405	+	.	ID=EST:TCONS_00011576.3;vulgar=TCONS_00011576 0 1113 + 3 2475436 2477239 + 5405 M 287 287 5 0 2 I 0 129 3 0 2 M 152 152 5 0 2 I 0 80 3 0 2 M 72 72 5 0 2 I 0 55 3 0 2 M 69 69 5 0 2 I 0 46 3 0 2 M 272 272 5 0 2 I 0 281 3 0 2 M 80 80 5 0 2 I 0 75 3 0 2 M 181 181
+2	exonerate_est2genome	exon	2475437	2475723	.	+	.	Parent=EST:TCONS_00011576.3;3=exonerate:est2genome,exon,2475437,2475723,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2475857	2476008	.	+	.	Parent=EST:TCONS_00011576.3;3=exonerate:est2genome,exon,2475857,2476008,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2476093	2476164	.	+	.	Parent=EST:TCONS_00011576.3;3=exonerate:est2genome,exon,2476093,2476164,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2476224	2476292	.	+	.	Parent=EST:TCONS_00011576.3;3=exonerate:est2genome,exon,2476224,2476292,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2476343	2476614	.	+	.	Parent=EST:TCONS_00011576.3;3=exonerate:est2genome,exon,2476343,2476614,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2476900	2476979	.	+	.	Parent=EST:TCONS_00011576.3;3=exonerate:est2genome,exon,2476900,2476979,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2477059	2477239	.	+	.	Parent=EST:TCONS_00011576.3
+4	exonerate_est2genome	transcript	2206728	2208530	5419	+	.	ID=EST:TCONS_00011576.4;vulgar=TCONS_00011577 257 1194 + 3 935625 934698 - 3984 M 857 857 G 10 0 M 70 70
+4	exonerate_est2genome	exon	2206728	2207014	.	+	.	Parent=EST:TCONS_00011576.4;4=exonerate:est2genome,exon,2206728,2207014,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2207148	2207299	.	+	.	Parent=EST:TCONS_00011576.4;4=exonerate:est2genome,exon,2207148,2207299,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2207384	2207455	.	+	.	Parent=EST:TCONS_00011576.4;4=exonerate:est2genome,exon,2207384,2207455,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2207515	2207583	.	+	.	Parent=EST:TCONS_00011576.4;4=exonerate:est2genome,exon,2207515,2207583,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2207634	2207905	.	+	.	Parent=EST:TCONS_00011576.4;4=exonerate:est2genome,exon,2207634,2207905,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2208191	2208270	.	+	.	Parent=EST:TCONS_00011576.4;4=exonerate:est2genome,exon,2208191,2208270,.,+,.,insertions,0
+4	exonerate_est2genome	exon	2208350	2208530	.	+	.	Parent=EST:TCONS_00011576.4
+3	exonerate_est2genome	transcript	842345	885406	8284	+	.	ID=EST:TCONS_00011544;vulgar=TCONS_00011544 0 1699 + 1 842344 885406 + 8284 M 250 250 5 0 2 I 0 11486 3 0 2 M 548 548 5 0 2 I 0 5235 3 0 2 M 252 252 5 0 2 I 0 4103 3 0 2 M 126 126 5 0 2 I 0 5364 3 0 2 M 118 118 5 0 2 I 0 15067 3 0 2 M 140 140 5 0 2 I 0 84 3 0 2 M 265 265
+3	exonerate_est2genome	exon	842345	842594	.	+	.	Parent=EST:TCONS_00011544;1=exonerate:est2genome,exon,842345,842594,.,+,.,insertions,0
+3	exonerate_est2genome	exon	854085	854632	.	+	.	Parent=EST:TCONS_00011544;1=exonerate:est2genome,exon,854085,854632,.,+,.,insertions,0
+3	exonerate_est2genome	exon	859872	860123	.	+	.	Parent=EST:TCONS_00011544;1=exonerate:est2genome,exon,859872,860123,.,+,.,insertions,0
+3	exonerate_est2genome	exon	864231	864356	.	+	.	Parent=EST:TCONS_00011544;1=exonerate:est2genome,exon,864231,864356,.,+,.,insertions,0
+3	exonerate_est2genome	exon	869725	869842	.	+	.	Parent=EST:TCONS_00011544;1=exonerate:est2genome,exon,869725,869842,.,+,.,insertions,0
+3	exonerate_est2genome	exon	884914	885053	.	+	.	Parent=EST:TCONS_00011544;1=exonerate:est2genome,exon,884914,885053,.,+,.,insertions,0
+3	exonerate_est2genome	exon	885142	885406	.	+	.	Parent=EST:TCONS_00011544
+2	exonerate_est2genome	transcript	2215720	2261367	8302	-	.	ID=EST:TCONS_00011544.3;vulgar=TCONS_00011544 0 1699 + 3 2261367 2215719 - 8302 M 250 250 5 0 2 I 0 10850 3 0 2 M 548 548 5 0 2 I 0 5716 3 0 2 M 252 252 5 0 2 I 0 4519 3 0 2 M 126 126 5 0 2 I 0 5690 3 0 2 M 118 118 5 0 2 I 0 17065 3 0 2 M 140 140 5 0 2 I 0 85 3 0 2 M 265 265
+2	exonerate_est2genome	exon	2261118	2261367	.	-	.	Parent=EST:TCONS_00011544.3;3=exonerate:est2genome,exon,2261118,2261367,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2249716	2250263	.	-	.	Parent=EST:TCONS_00011544.3;3=exonerate:est2genome,exon,2249716,2250263,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2243744	2243995	.	-	.	Parent=EST:TCONS_00011544.3;3=exonerate:est2genome,exon,2243744,2243995,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2239095	2239220	.	-	.	Parent=EST:TCONS_00011544.3;3=exonerate:est2genome,exon,2239095,2239220,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2233283	2233400	.	-	.	Parent=EST:TCONS_00011544.3;3=exonerate:est2genome,exon,2233283,2233400,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2216074	2216213	.	-	.	Parent=EST:TCONS_00011544.3;3=exonerate:est2genome,exon,2216074,2216213,.,-,.,insertions,0
+2	exonerate_est2genome	exon	2215720	2215984	.	-	.	Parent=EST:TCONS_00011544.3
+4	exonerate_est2genome	transcript	1961041	2006958	8141	-	.	ID=EST:TCONS_00011544.4;vulgar=TCONS_00011544 0 1699 + 4 2006958 1961040 - 8141 M 250 250 5 0 2 I 0 12904 3 0 2 M 548 548 5 0 2 I 0 4573 3 0 2 M 252 252 5 0 2 I 0 4784 3 0 2 M 126 126 5 0 2 I 0 8227 3 0 2 M 3 3 G 0 2 M 11 11 G 0 1 M 27 27 G 0 1 M 12 12 G 0 1 M 12 12 G 1 0 M 21 21 G 2 0 M 7 7 G 1 0 M 19 19 G 0 1 M 2 2 5 0 2 I 0 13621 3 0 2 M 140 140 5 0 2 I 0 84 3 0 2 M 265 265
+4	exonerate_est2genome	exon	2006709	2006958	.	-	.	Parent=EST:TCONS_00011544.4;4=exonerate:est2genome,exon,2006709,2006958,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1993253	1993800	.	-	.	Parent=EST:TCONS_00011544.4;4=exonerate:est2genome,exon,1993253,1993800,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1988424	1988675	.	-	.	Parent=EST:TCONS_00011544.4;4=exonerate:est2genome,exon,1988424,1988675,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1983510	1983635	.	-	.	Parent=EST:TCONS_00011544.4;4=exonerate:est2genome,exon,1983510,1983635,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1975159	1975278	.	-	.	Parent=EST:TCONS_00011544.4;4=exonerate:est2genome,exon,1975159,1975278,.,-,.,insertions,6
+4	exonerate_est2genome	exon	1961394	1961533	.	-	.	Parent=EST:TCONS_00011544.4;4=exonerate:est2genome,exon,1961394,1961533,.,-,.,insertions,0
+4	exonerate_est2genome	exon	1961041	1961305	.	-	.	Parent=EST:TCONS_00011544.4
+3	exonerate_est2genome	transcript	596995	616333	54868	-	.	ID=EST:TCONS_00011570;vulgar=TCONS_00011570 3011 14165 + 1 616333 596994 - 54868 M 4283 4283 5 0 2 I 0 529 3 0 2 M 275 275 5 0 2 I 0 184 3 0 2 M 90 90 5 0 2 I 0 2331 3 0 2 M 234 234 5 0 2 I 0 1580 3 0 2 M 274 274 5 0 2 I 0 826 3 0 2 M 138 138 5 0 2 I 0 607 3 0 2 M 482 482 5 0 2 I 0 74 3 0 2 M 1352 1352 5 0 2 I 0 966 3 0 2 M 154 154 5 0 2 I 0 55 3 0 2 M 943 943 5 0 2 I 0 993 3 0 2 M 2929 2929
+3	exonerate_est2genome	exon	612051	616333	.	-	.	Parent=EST:TCONS_00011570;1=exonerate:est2genome,exon,612051,616333,.,-,.,insertions,0
+3	exonerate_est2genome	exon	611243	611517	.	-	.	Parent=EST:TCONS_00011570;1=exonerate:est2genome,exon,611243,611517,.,-,.,insertions,0
+3	exonerate_est2genome	exon	610965	611054	.	-	.	Parent=EST:TCONS_00011570;1=exonerate:est2genome,exon,610965,611054,.,-,.,insertions,0
+3	exonerate_est2genome	exon	608396	608629	.	-	.	Parent=EST:TCONS_00011570;1=exonerate:est2genome,exon,608396,608629,.,-,.,insertions,0
+3	exonerate_est2genome	exon	606538	606811	.	-	.	Parent=EST:TCONS_00011570;1=exonerate:est2genome,exon,606538,606811,.,-,.,insertions,0
+3	exonerate_est2genome	exon	605570	605707	.	-	.	Parent=EST:TCONS_00011570;1=exonerate:est2genome,exon,605570,605707,.,-,.,insertions,0
+3	exonerate_est2genome	exon	604477	604958	.	-	.	Parent=EST:TCONS_00011570;1=exonerate:est2genome,exon,604477,604958,.,-,.,insertions,0
+3	exonerate_est2genome	exon	603047	604398	.	-	.	Parent=EST:TCONS_00011570;1=exonerate:est2genome,exon,603047,604398,.,-,.,insertions,0
+3	exonerate_est2genome	exon	601923	602076	.	-	.	Parent=EST:TCONS_00011570;1=exonerate:est2genome,exon,601923,602076,.,-,.,insertions,0
+3	exonerate_est2genome	exon	600921	601863	.	-	.	Parent=EST:TCONS_00011570;1=exonerate:est2genome,exon,600921,601863,.,-,.,insertions,0
+3	exonerate_est2genome	exon	596995	599923	.	-	.	Parent=EST:TCONS_00011570
+3	exonerate_est2genome	transcript	616384	630412	14645	-	.	ID=EST:TCONS_00011570.2;vulgar=TCONS_00011570 0 2966 + 1 630412 616383 - 14645 M 257 257 5 0 2 I 0 10997 3 0 2 M 528 528 5 0 2 I 0 55 3 0 2 M 1054 1054 G 0 3 M 1127 1127
+3	exonerate_est2genome	exon	630156	630412	.	-	.	Parent=EST:TCONS_00011570.2;1=exonerate:est2genome,exon,630156,630412,.,-,.,insertions,0
+3	exonerate_est2genome	exon	618627	619154	.	-	.	Parent=EST:TCONS_00011570.2;1=exonerate:est2genome,exon,618627,619154,.,-,.,insertions,0
+3	exonerate_est2genome	exon	616384	618567	.	-	.	Parent=EST:TCONS_00011570.2
+3	exonerate_est2genome	transcript	638864	669716	7280	+	.	ID=EST:TCONS_00011525;vulgar=TCONS_00011525 0 1677 + 1 638863 669716 + 7280 M 391 391 5 0 2 I 0 407 3 0 2 M 105 105 5 0 2 I 0 15355 3 0 2 M 226 226 5 0 2 I 0 2737 3 0 2 M 388 388 5 0 2 I 0 10654 3 0 2 M 17 17 G 0 1 M 8 8 G 1 0 M 10 10 G 1 0 M 2 2 G 1 0 M 12 12 G 0 2 M 18 18 G 1 0 M 4 4 G 1 0 M 36 36 G 0 1 M 8 8 G 0 1 M 12 12 G 0 1 M 6 6 G 0 2 M 19 19 G 1 0 M 13 13 G 3 0 M 4 4 G 1 0 M 7 7 G 0 1 M 10 10 G 1 0 M 8 8 G 0 1 M 2 2 G 0 1 M 6 6 G 0 2 M 8 8 G 1 0 M 8 8 G 0 2 M 26 26 G 0 1 M 5 5 G 0 1 M 12 12 G 1 0 M 10 10 G 0 1 M 5 5 G 0 1 M 10 10 G 1 0 M 12 12 G 0 1 M 6 6 G 0 1 M 12 12 G 1 0 M 19 19 G 1 0 M 9 9 G 1 0 M 2 2 G 0 2 M 21 21 G 0 1 M 1 1 G 0 2 M 47 47 G 1 0 M 29 29 G 1 0 M 14 14 G 1 0 M 13 13 G 0 4 M 2 2 G 0 1 M 6 6 G 1 0 M 12 12 G 1 0 M 18 18 G 1 0 M 13 13 G 1 0 M 21 21
+3	exonerate_est2genome	exon	638864	639254	.	+	.	Parent=EST:TCONS_00011525;1=exonerate:est2genome,exon,638864,639254,.,+,.,insertions,0
+3	exonerate_est2genome	exon	639666	639770	.	+	.	Parent=EST:TCONS_00011525;1=exonerate:est2genome,exon,639666,639770,.,+,.,insertions,0
+3	exonerate_est2genome	exon	655130	655355	.	+	.	Parent=EST:TCONS_00011525;1=exonerate:est2genome,exon,655130,655355,.,+,.,insertions,0
+3	exonerate_est2genome	exon	658097	658484	.	+	.	Parent=EST:TCONS_00011525;1=exonerate:est2genome,exon,658097,658484,.,+,.,insertions,0
+3	exonerate_est2genome	exon	669143	669716	.	+	.	Parent=EST:TCONS_00011525
+3	exonerate_est2genome	transcript	1108438	1118070	20561	-	.	ID=EST:TCONS_00012343;vulgar=TCONS_00011525 0 1677 + 1 638863 669716 + 7280 M 391 391 5 0 2 I 0 407 3 0 2 M 105 105 5 0 2 I 0 15355 3 0 2 M 226 226 5 0 2 I 0 2737 3 0 2 M 388 388 5 0 2 I 0 10654 3 0 2 M 17 17 G 0 1 M 8 8 G 1 0 M 10 10 G 1 0 M 2 2 G 1 0 M 12 12 G 0 2 M 18 18 G 1 0 M 4 4 G 1 0 M 36 36 G 0 1 M 8 8 G 0 1 M 12 12 G 0 1 M 6 6 G 0 2 M 19 19 G 1 0 M 13 13 G 3 0 M 4 4 G 1 0 M 7 7 G 0 1 M 10 10 G 1 0 M 8 8 G 0 1 M 2 2 G 0 1 M 6 6 G 0 2 M 8 8 G 1 0 M 8 8 G 0 2 M 26 26 G 0 1 M 5 5 G 0 1 M 12 12 G 1 0 M 10 10 G 0 1 M 5 5 G 0 1 M 10 10 G 1 0 M 12 12 G 0 1 M 6 6 G 0 1 M 12 12 G 1 0 M 19 19 G 1 0 M 9 9 G 1 0 M 2 2 G 0 2 M 21 21 G 0 1 M 1 1 G 0 2 M 47 47 G 1 0 M 29 29 G 1 0 M 14 14 G 1 0 M 13 13 G 0 4 M 2 2 G 0 1 M 6 6 G 1 0 M 12 12 G 1 0 M 18 18 G 1 0 M 13 13 G 1 0 M 21 21
+3	exonerate_est2genome	exon	1117770	1118070	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1117770,1118070,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1117538	1117713	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1117538,1117713,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1117237	1117479	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1117237,1117479,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1117107	1117182	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1117107,1117182,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1116728	1117041	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1116728,1117041,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1115109	1115297	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1115109,1115297,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1114697	1115009	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1114697,1115009,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1114322	1114514	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1114322,1114514,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1111865	1112202	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1111865,1112202,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1111498	1111718	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1111498,1111718,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1109906	1110523	.	-	.	Parent=EST:TCONS_00012343;1=exonerate:est2genome,exon,1109906,1110523,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1108438	1109813	.	-	.	Parent=EST:TCONS_00012343
+5	exonerate_est2genome	transcript	1229530	1350643	20798	-	.	ID=EST:TCONS_00011570.3;vulgar=TCONS_00011570 3018 9683 + 2 1350643 1229529 - 20798 M 1359 1359 G 0 3 M 193 193 G 6 0 M 8 8 G 3 0 M 81 81 G 0 2 M 1 1 G 0 7 M 37 37 G 0 1 M 4 4 G 1 0 M 1914 1914 G 0 3 M 669 669 5 0 2 I 0 54 3 0 2 M 275 275 5 0 2 I 0 182 3 0 2 M 90 90 5 0 2 I 0 2716 3 0 2 M 197 197 G 3 0 M 34 34 5 0 2 I 0 512 3 0 2 M 274 274 5 0 2 I 0 1110 3 0 2 M 138 138 5 0 2 I 0 1771 3 0 2 M 482 482 5 0 2 I 0 97 3 0 2 M 353 353 G 2 0 M 8 8 G 1 0 M 7 7 G 3 0 M 45 45 G 0 3 M 34 34 G 0 3 M 8 8 G 0 3 M 339 339 G 0 1 M 2 2 5 0 2 I 0 107966 3 0 2 M 47 47 G 0 1 M 20 20 G 0 1 M 27 27
+5	exonerate_est2genome	exon	1346362	1350643	.	-	.	Parent=EST:TCONS_00011570.3;2=exonerate:est2genome,exon,1346362,1350643,.,-,.,insertions,16
+5	exonerate_est2genome	exon	1346029	1346303	.	-	.	Parent=EST:TCONS_00011570.3;2=exonerate:est2genome,exon,1346029,1346303,.,-,.,insertions,0
+5	exonerate_est2genome	exon	1345753	1345842	.	-	.	Parent=EST:TCONS_00011570.3;2=exonerate:est2genome,exon,1345753,1345842,.,-,.,insertions,0
+5	exonerate_est2genome	exon	1342802	1343032	.	-	.	Parent=EST:TCONS_00011570.3;2=exonerate:est2genome,exon,1342802,1343032,.,-,.,insertions,0
+5	exonerate_est2genome	exon	1342012	1342285	.	-	.	Parent=EST:TCONS_00011570.3;2=exonerate:est2genome,exon,1342012,1342285,.,-,.,insertions,0
+5	exonerate_est2genome	exon	1340760	1340897	.	-	.	Parent=EST:TCONS_00011570.3;2=exonerate:est2genome,exon,1340760,1340897,.,-,.,insertions,0
+5	exonerate_est2genome	exon	1338503	1338984	.	-	.	Parent=EST:TCONS_00011570.3;2=exonerate:est2genome,exon,1338503,1338984,.,-,.,insertions,0
+5	exonerate_est2genome	exon	1337596	1338401	.	-	.	Parent=EST:TCONS_00011570.3;2=exonerate:est2genome,exon,1337596,1338401,.,-,.,insertions,10
+5	exonerate_est2genome	exon	1229530	1229625	.	-	.	Parent=EST:TCONS_00011570.3
+2	exonerate_est2genome	transcript	2492813	2511231	54992	+	.	ID=EST:TCONS_00011570.8;vulgar=TCONS_00011570 3011 14165 + 3 2492812 2511231 + 54992 M 4283 4283 5 0 2 I 0 522 3 0 2 M 275 275 5 0 2 I 0 186 3 0 2 M 90 90 5 0 2 I 0 2349 3 0 2 M 234 234 5 0 2 I 0 1395 3 0 2 M 274 274 5 0 2 I 0 825 3 0 2 M 138 138 5 0 2 I 0 608 3 0 2 M 482 482 5 0 2 I 0 74 3 0 2 M 1352 1352 5 0 2 I 0 211 3 0 2 M 154 154 5 0 2 I 0 55 3 0 2 M 943 943 5 0 2 I 0 1000 3 0 2 M 2929 2929
+2	exonerate_est2genome	exon	2492813	2497095	.	+	.	Parent=EST:TCONS_00011570.8;3=exonerate:est2genome,exon,2492813,2497095,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2497622	2497896	.	+	.	Parent=EST:TCONS_00011570.8;3=exonerate:est2genome,exon,2497622,2497896,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2498087	2498176	.	+	.	Parent=EST:TCONS_00011570.8;3=exonerate:est2genome,exon,2498087,2498176,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2500530	2500763	.	+	.	Parent=EST:TCONS_00011570.8;3=exonerate:est2genome,exon,2500530,2500763,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2502163	2502436	.	+	.	Parent=EST:TCONS_00011570.8;3=exonerate:est2genome,exon,2502163,2502436,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2503266	2503403	.	+	.	Parent=EST:TCONS_00011570.8;3=exonerate:est2genome,exon,2503266,2503403,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2504016	2504497	.	+	.	Parent=EST:TCONS_00011570.8;3=exonerate:est2genome,exon,2504016,2504497,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2504576	2505927	.	+	.	Parent=EST:TCONS_00011570.8;3=exonerate:est2genome,exon,2504576,2505927,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2506143	2506296	.	+	.	Parent=EST:TCONS_00011570.8;3=exonerate:est2genome,exon,2506143,2506296,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2506356	2507298	.	+	.	Parent=EST:TCONS_00011570.8;3=exonerate:est2genome,exon,2506356,2507298,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2508303	2511231	.	+	.	Parent=EST:TCONS_00011570.8
+2	exonerate_est2genome	transcript	2478869	2492762	14672	+	.	ID=EST:TCONS_00011570.9;vulgar=TCONS_00011570 0 2966 + 3 2478868 2492762 + 14672 M 257 257 5 0 2 I 0 10862 3 0 2 M 528 528 5 0 2 I 0 55 3 0 2 M 1054 1054 G 0 3 M 1127 1127
+2	exonerate_est2genome	exon	2478869	2479125	.	+	.	Parent=EST:TCONS_00011570.9;3=exonerate:est2genome,exon,2478869,2479125,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2489992	2490519	.	+	.	Parent=EST:TCONS_00011570.9;3=exonerate:est2genome,exon,2489992,2490519,.,+,.,insertions,0
+2	exonerate_est2genome	exon	2490579	2492762	.	+	.	Parent=EST:TCONS_00011570.9
+3	exonerate_est2genome	transcript	1133823	1137504	14309	-	.	ID=EST:TCONS_00012340.3;vulgar=TCONS_00012340 0 2980 + 1 1137504 1133822 - 14309 M 108 108 G 1 0 M 1 1 5 0 2 I 0 48 3 0 2 M 285 285 5 0 2 I 0 75 3 0 2 M 363 363 5 0 2 I 0 75 3 0 2 M 398 398 5 0 2 I 0 197 3 0 2 M 309 309 5 0 2 I 0 96 3 0 2 M 210 210 5 0 2 I 0 195 3 0 2 M 368 368 G 1 0 M 60 60 G 0 8 M 48 48 G 0 1 M 280 280 G 2 0 M 4 4 G 5 0 M 5 5 G 6 0 M 2 2 G 2 0 M 522 522
+3	exonerate_est2genome	exon	1137396	1137504	.	-	.	Parent=EST:TCONS_00012340.3;1=exonerate:est2genome,exon,1137396,1137504,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1137059	1137343	.	-	.	Parent=EST:TCONS_00012340.3;1=exonerate:est2genome,exon,1137059,1137343,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1136617	1136979	.	-	.	Parent=EST:TCONS_00012340.3;1=exonerate:est2genome,exon,1136617,1136979,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1136140	1136537	.	-	.	Parent=EST:TCONS_00012340.3;1=exonerate:est2genome,exon,1136140,1136537,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1135630	1135938	.	-	.	Parent=EST:TCONS_00012340.3;1=exonerate:est2genome,exon,1135630,1135938,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1135320	1135529	.	-	.	Parent=EST:TCONS_00012340.3;1=exonerate:est2genome,exon,1135320,1135529,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1133823	1135120	.	-	.	Parent=EST:TCONS_00012340.3
+3	exonerate_est2genome	transcript	1146747	1226439	30330	-	.	ID=EST:TCONS_00012338;vulgar=TCONS_00012338 0 6209 + 1 1226439 1146746 - 30330 M 79 79 G 1 0 M 196 196 5 0 2 I 0 63981 3 0 2 M 210 210 5 0 2 I 0 92 3 0 2 M 45 45 5 0 2 I 0 1196 3 0 2 M 285 285 5 0 2 I 0 1014 3 0 2 M 249 249 5 0 2 I 0 47 3 0 2 M 781 781 5 0 2 I 0 2294 3 0 2 M 478 478 5 0 2 I 0 50 3 0 2 M 119 119 5 0 2 I 0 992 3 0 2 M 990 990 5 0 2 I 0 54 3 0 2 M 199 199 5 0 2 I 0 721 3 0 2 M 1280 1280 5 0 2 I 0 88 3 0 2 M 178 178 5 0 2 I 0 1460 3 0 2 M 115 115 5 0 2 I 0 1444 3 0 2 M 1004 1004
+3	exonerate_est2genome	exon	1226165	1226439	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1226165,1226439,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1161970	1162179	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1161970,1162179,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1161829	1161873	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1161829,1161873,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1160344	1160628	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1160344,1160628,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1159077	1159325	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1159077,1159325,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1158245	1159025	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1158245,1159025,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1155469	1155946	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1155469,1155946,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1155296	1155414	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1155296,1155414,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1153310	1154299	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1153310,1154299,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1153053	1153251	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1153053,1153251,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1151048	1152327	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1151048,1152327,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1150778	1150955	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1150778,1150955,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1149199	1149313	.	-	.	Parent=EST:TCONS_00012338;1=exonerate:est2genome,exon,1149199,1149313,.,-,.,insertions,0
+3	exonerate_est2genome	exon	1146747	1147750	.	-	.	Parent=EST:TCONS_00012338
+2	exonerate_est2genome	transcript	1885779	1961126	30471	+	.	ID=EST:TCONS_00012338.14;vulgar=TCONS_00012338 0 6209 + 3 1885778 1961126 + 30471 M 276 276 5 0 2 I 0 59890 3 0 2 M 210 210 5 0 2 I 0 52 3 0 2 M 45 45 5 0 2 I 0 1322 3 0 2 M 285 285 5 0 2 I 0 994 3 0 2 M 249 249 5 0 2 I 0 47 3 0 2 M 781 781 5 0 2 I 0 1958 3 0 2 M 478 478 5 0 2 I 0 50 3 0 2 M 119 119 5 0 2 I 0 1021 3 0 2 M 990 990 5 0 2 I 0 54 3 0 2 M 199 199 5 0 2 I 0 682 3 0 2 M 1280 1280 5 0 2 I 0 88 3 0 2 M 178 178 5 0 2 I 0 1443 3 0 2 M 115 115 5 0 2 I 0 1486 3 0 2 M 1004 1004
+2	exonerate_est2genome	exon	1885779	1886054	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1885779,1886054,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1945949	1946158	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1945949,1946158,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1946215	1946259	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1946215,1946259,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1947586	1947870	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1947586,1947870,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1948869	1949117	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1948869,1949117,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1949169	1949949	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1949169,1949949,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1951912	1952389	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1951912,1952389,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1952444	1952562	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1952444,1952562,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1953588	1954577	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1953588,1954577,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1954636	1954834	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1954636,1954834,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1955521	1956800	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1955521,1956800,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1956893	1957070	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1956893,1957070,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1958518	1958632	.	+	.	Parent=EST:TCONS_00012338.14;3=exonerate:est2genome,exon,1958518,1958632,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1960123	1961126	.	+	.	Parent=EST:TCONS_00012338.14
+2	exonerate_est2genome	transcript	1967727	1971418	14593	+	.	ID=EST:TCONS_00012340;vulgar=TCONS_00012340 0 2981 + 3 1967726 1971418 + 14593 M 108 108 G 1 0 M 1 1 5 0 2 I 0 48 3 0 2 M 285 285 5 0 2 I 0 79 3 0 2 M 363 363 5 0 2 I 0 79 3 0 2 M 398 398 5 0 2 I 0 194 3 0 2 M 309 309 5 0 2 I 0 96 3 0 2 M 210 210 5 0 2 I 0 195 3 0 2 M 345 345 G 0 1 M 123 123 G 4 0 M 834 834
+2	exonerate_est2genome	exon	1967727	1967835	.	+	.	Parent=EST:TCONS_00012340;3=exonerate:est2genome,exon,1967727,1967835,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1967888	1968172	.	+	.	Parent=EST:TCONS_00012340;3=exonerate:est2genome,exon,1967888,1968172,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1968256	1968618	.	+	.	Parent=EST:TCONS_00012340;3=exonerate:est2genome,exon,1968256,1968618,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1968702	1969099	.	+	.	Parent=EST:TCONS_00012340;3=exonerate:est2genome,exon,1968702,1969099,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1969298	1969606	.	+	.	Parent=EST:TCONS_00012340;3=exonerate:est2genome,exon,1969298,1969606,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1969707	1969916	.	+	.	Parent=EST:TCONS_00012340;3=exonerate:est2genome,exon,1969707,1969916,.,+,.,insertions,0
+2	exonerate_est2genome	exon	1970116	1971418	.	+	.	Parent=EST:TCONS_00012340
+4	exonerate_est2genome	transcript	1726984	1730687	14428	+	.	ID=EST:TCONS_00012340.12;vulgar=TCONS_00012340 0 2980 + 4 1726983 1730687 + 14428 M 108 108 G 1 0 M 1 1 5 0 2 I 0 48 3 0 2 M 285 285 5 0 2 I 0 79 3 0 2 M 363 363 5 0 2 I 0 80 3 0 2 M 398 398 5 0 2 I 0 194 3 0 2 M 309 309 5 0 2 I 0 95 3 0 2 M 210 210 5 0 2 I 0 195 3 0 2 M 376 376 G 0 2 M 101 101 G 0 1 M 230 230 G 0 2 M 18 18 G 0 2 M 2 2 G 0 3 M 578 578
+4	exonerate_est2genome	exon	1726984	1727092	.	+	.	Parent=EST:TCONS_00012340.12;4=exonerate:est2genome,exon,1726984,1727092,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1727145	1727429	.	+	.	Parent=EST:TCONS_00012340.12;4=exonerate:est2genome,exon,1727145,1727429,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1727513	1727875	.	+	.	Parent=EST:TCONS_00012340.12;4=exonerate:est2genome,exon,1727513,1727875,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1727960	1728357	.	+	.	Parent=EST:TCONS_00012340.12;4=exonerate:est2genome,exon,1727960,1728357,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1728556	1728864	.	+	.	Parent=EST:TCONS_00012340.12;4=exonerate:est2genome,exon,1728556,1728864,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1728964	1729173	.	+	.	Parent=EST:TCONS_00012340.12;4=exonerate:est2genome,exon,1728964,1729173,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1729373	1730687	.	+	.	Parent=EST:TCONS_00012340.12
+4	exonerate_est2genome	transcript	1636673	1721574	30416	+	.	ID=EST:TCONS_00012338.22;vulgar=TCONS_00012338 0 6209 + 4 1636672 1721574 + 30416 M 276 276 5 0 2 I 0 68171 3 0 2 M 210 210 5 0 2 I 0 52 3 0 2 M 45 45 5 0 2 I 0 1120 3 0 2 M 285 285 5 0 2 I 0 1744 3 0 2 M 249 249 5 0 2 I 0 47 3 0 2 M 781 781 5 0 2 I 0 2615 3 0 2 M 478 478 5 0 2 I 0 50 3 0 2 M 119 119 5 0 2 I 0 1011 3 0 2 M 990 990 5 0 2 I 0 54 3 0 2 M 199 199 5 0 2 I 0 682 3 0 2 M 1280 1280 5 0 2 I 0 88 3 0 2 M 178 178 5 0 2 I 0 1469 3 0 2 M 115 115 5 0 2 I 0 1538 3 0 2 M 1004 1004
+4	exonerate_est2genome	exon	1636673	1636948	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1636673,1636948,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1705124	1705333	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1705124,1705333,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1705390	1705434	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1705390,1705434,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1706559	1706843	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1706559,1706843,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1708592	1708840	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1708592,1708840,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1708892	1709672	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1708892,1709672,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1712292	1712769	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1712292,1712769,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1712824	1712942	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1712824,1712942,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1713958	1714947	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1713958,1714947,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1715006	1715204	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1715006,1715204,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1715891	1717170	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1715891,1717170,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1717263	1717440	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1717263,1717440,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1718914	1719028	.	+	.	Parent=EST:TCONS_00012338.22;4=exonerate:est2genome,exon,1718914,1719028,.,+,.,insertions,0
+4	exonerate_est2genome	exon	1720571	1721574	.	+	.	Parent=EST:TCONS_00012338.22
+1	exonerate_est2genome	transcript	2042912	2190913	8831	-	.	ID=EST:Ha-pnr-wing-H-hsp;vulgar=Ha-pnr-wing-H-hsp 3 1817 + 5 2190913 2042911 - 8831 M 182 182 5 0 2 I 0 118553 3 0 2 M 361 361 5 0 2 I 0 12617 3 0 2 M 173 173 5 0 2 I 0 6972 3 0 2 M 241 241 5 0 2 I 0 8029 3 0 2 M 601 601 G 0 1 M 256 256
+1	exonerate_est2genome	exon	2190732	2190913	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp
+1	exonerate_est2genome	exon	2071814	2072174	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp
+1	exonerate_est2genome	exon	2059020	2059192	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp
+1	exonerate_est2genome	exon	2051803	2052043	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp
+1	exonerate_est2genome	exon	2042912	2043769	.	-	.	Parent=EST:Ha-pnr-wing-H-hsp
+1	exonerate_est2genome	transcript	1872094	1901829	35457	-	.	ID=EST:TCONS_00012372.8;vulgar=TCONS_00012372 0 7184 + 5 1901829 1872093 - 35457 M 350 350 5 0 2 I 0 8568 3 0 2 M 46 46 5 0 2 I 0 7592 3 0 2 M 182 182 5 0 2 I 0 2649 3 0 2 M 943 943 5 0 2 I 0 126 3 0 2 M 243 243 5 0 2 I 0 79 3 0 2 M 222 222 5 0 2 I 0 52 3 0 2 M 306 306 5 0 2 I 0 85 3 0 2 M 468 468 5 0 2 I 0 471 3 0 2 M 384 384 5 0 2 I 0 70 3 0 2 M 1039 1039 5 0 2 I 0 614 3 0 2 M 546 546 5 0 2 I 0 258 3 0 2 M 390 390 5 0 2 I 0 52 3 0 2 M 1241 1241 5 0 2 I 0 1884 3 0 2 M 824 824
+1	exonerate_est2genome	exon	1872094	1872917	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1874806	1876046	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1876103	1876492	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1876755	1877300	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1877919	1878957	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1879032	1879415	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1879891	1880358	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1880448	1880753	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1880810	1881031	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1881115	1881357	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1881488	1882430	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1885084	1885265	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1892862	1892907	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	exon	1901480	1901829	.	-	.	Parent=EST:TCONS_00012372.8
+1	exonerate_est2genome	transcript	1901711	1982564	30629	+	.	ID=EST:TCONS_00012338.5;vulgar=TCONS_00012338 0 6209 + 5 1901710 1982564 + 30629 M 276 276 5 0 2 I 0 63506 3 0 2 M 210 210 5 0 2 I 0 92 3 0 2 M 45 45 5 0 2 I 0 1328 3 0 2 M 285 285 5 0 2 I 0 1003 3 0 2 M 249 249 5 0 2 I 0 47 3 0 2 M 625 625 5 0 2 I 0 1952 3 0 2 M 156 156 5 0 2 I 0 1866 3 0 2 M 478 478 5 0 2 I 0 50 3 0 2 M 119 119 5 0 2 I 0 992 3 0 2 M 990 990 5 0 2 I 0 54 3 0 2 M 199 199 5 0 2 I 0 682 3 0 2 M 1280 1280 5 0 2 I 0 88 3 0 2 M 178 178 5 0 2 I 0 1443 3 0 2 M 115 115 5 0 2 I 0 1486 3 0 2 M 1004 1004
+1	exonerate_est2genome	exon	1901711	1901986	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1965497	1965706	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1965803	1965847	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1967180	1967464	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1968472	1968720	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1968772	1969396	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1971353	1971508	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1973379	1973856	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1973911	1974029	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1975026	1976015	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1976074	1976272	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1976959	1978238	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1978331	1978508	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1979956	1980070	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	exon	1981561	1982564	.	+	.	Parent=EST:TCONS_00012338.5
+1	exonerate_est2genome	transcript	1985161	1987254	8003	-	.	ID=EST:TCONS_00012373;vulgar=TCONS_00012373 0 1616 + 5 1987254 1985160 - 8003 M 234 234 5 0 2 I 0 91 3 0 2 M 400 400 5 0 2 I 0 379 3 0 2 M 982 982
+1	exonerate_est2genome	exon	1985161	1986142	.	-	.	Parent=EST:TCONS_00012373
+1	exonerate_est2genome	exon	1986526	1986925	.	-	.	Parent=EST:TCONS_00012373
+1	exonerate_est2genome	exon	1987021	1987254	.	-	.	Parent=EST:TCONS_00012373
+1	exonerate_est2genome	transcript	1987673	1991387	14604	+	.	ID=EST:TCONS_00012340;vulgar=TCONS_00012340 0 2980 + 5 1987672 1991387 + 14604 M 108 108 G 1 0 M 1 1 5 0 2 I 0 48 3 0 2 M 285 285 5 0 2 I 0 79 3 0 2 M 363 363 5 0 2 I 0 79 3 0 2 M 398 398 5 0 2 I 0 194 3 0 2 M 309 309 5 0 2 I 0 96 3 0 2 M 210 210 5 0 2 I 0 208 3 0 2 M 429 429 G 0 8 M 876 876
+1	exonerate_est2genome	exon	1987673	1987781	.	+	.	Parent=EST:TCONS_00012340
+1	exonerate_est2genome	exon	1987834	1988118	.	+	.	Parent=EST:TCONS_00012340
+1	exonerate_est2genome	exon	1988202	1988564	.	+	.	Parent=EST:TCONS_00012340
+1	exonerate_est2genome	exon	1988648	1989045	.	+	.	Parent=EST:TCONS_00012340
+1	exonerate_est2genome	exon	1989244	1989552	.	+	.	Parent=EST:TCONS_00012340
+1	exonerate_est2genome	exon	1989653	1989862	.	+	.	Parent=EST:TCONS_00012340
+1	exonerate_est2genome	exon	1990075	1991387	.	+	.	Parent=EST:TCONS_00012340
+1	exonerate_est2genome	transcript	1992270	1993826	7776	+	.	ID=EST:TCONS_00012389;vulgar=TCONS_00012389 0 1557 + 5 1992269 1993826 + 7776 M 1557 1557
+1	exonerate_est2genome	exon	1992270	1993826	.	+	.	Parent=EST:TCONS_00012389
+1	exonerate_est2genome	transcript	1994017	1997235	11060	-	.	ID=EST:TCONS_00012374;vulgar=TCONS_00012374 0 2228 + 5 1997235 1994016 - 11060 M 241 241 5 0 2 I 0 987 3 0 2 M 1987 1987
+1	exonerate_est2genome	exon	1994017	1996003	.	-	.	Parent=EST:TCONS_00012374
+1	exonerate_est2genome	exon	1996995	1997235	.	-	.	Parent=EST:TCONS_00012374
+1	exonerate_est2genome	transcript	2006254	2008122	5513	-	.	ID=EST:TCONS_00012375;vulgar=TCONS_00012375 0 1111 + 5 2008122 2006253 - 5513 M 532 532 5 0 2 I 0 54 3 0 2 M 218 218 5 0 2 I 0 51 3 0 2 M 103 103 5 0 2 I 0 641 3 0 2 M 258 258
+1	exonerate_est2genome	exon	2006254	2006511	.	-	.	Parent=EST:TCONS_00012375
+1	exonerate_est2genome	exon	2007157	2007259	.	-	.	Parent=EST:TCONS_00012375
+1	exonerate_est2genome	exon	2007315	2007532	.	-	.	Parent=EST:TCONS_00012375
+1	exonerate_est2genome	exon	2007591	2008122	.	-	.	Parent=EST:TCONS_00012375
+1	exonerate_est2genome	transcript	2010842	2020427	21781	+	.	ID=EST:TCONS_00012343.2;vulgar=TCONS_00012343 0 4415 + 5 2010841 2020427 + 21781 M 301 301 5 0 2 I 0 52 3 0 2 M 176 176 5 0 2 I 0 54 3 0 2 M 243 243 5 0 2 I 0 50 3 0 2 M 76 76 5 0 2 I 0 61 3 0 2 M 314 314 5 0 2 I 0 1320 3 0 2 M 189 189 5 0 2 I 0 95 3 0 2 M 313 313 5 0 2 I 0 179 3 0 2 M 193 193 5 0 2 I 0 2111 3 0 2 M 338 338 5 0 2 I 0 142 3 0 2 M 221 221 5 0 2 I 0 977 3 0 2 M 618 618 5 0 2 I 0 88 3 0 2 M 1215 1215 G 1 0 M 142 142 G 1 0 M 74 74
+1	exonerate_est2genome	exon	2010842	2011142	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2011199	2011374	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2011433	2011675	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2011730	2011805	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2011871	2012184	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2013509	2013697	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2013797	2014109	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2014293	2014485	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2016601	2016938	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2017085	2017305	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2018287	2018904	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	exon	2018997	2020427	.	+	.	Parent=EST:TCONS_00012343.2
+1	exonerate_est2genome	transcript	2020920	2022242	6211	-	.	ID=EST:TCONS_00012376;vulgar=TCONS_00012375 0 1111 + 5 2008122 2006253 - 5513 M 532 532 5 0 2 I 0 54 3 0 2 M 218 218 5 0 2 I 0 51 3 0 2 M 103 103 5 0 2 I 0 641 3 0 2 M 258 258
+1	exonerate_est2genome	exon	2020920	2022043	.	-	.	Parent=EST:TCONS_00012376
+1	exonerate_est2genome	exon	2022120	2022242	.	-	.	Parent=EST:TCONS_00012376
+1	exonerate_est2genome	transcript	2023317	2034571	18796	+	.	ID=EST:TCONS_00012348;vulgar=TCONS_00012348 0 3838 + 5 2023316 2034571 + 18796 M 136 136 G 1 0 M 616 616 5 0 2 I 0 781 3 0 2 M 198 198 5 0 2 I 0 220 3 0 2 M 42 42 5 0 2 I 0 50 3 0 2 M 141 141 5 0 2 I 0 3304 3 0 2 M 77 77 5 0 2 I 0 54 3 0 2 M 67 67 5 0 2 I 0 48 3 0 2 M 146 146 5 0 2 I 0 160 3 0 2 M 121 121 5 0 2 I 0 248 3 0 2 M 171 171 5 0 2 I 0 61 3 0 2 M 86 86 5 0 2 I 0 468 3 0 2 M 49 49 5 0 2 I 0 50 3 0 2 M 90 90 5 0 2 I 0 54 3 0 2 M 87 87 5 0 2 I 0 124 3 0 2 M 312 312 5 0 2 I 0 566 3 0 2 M 91 91 5 0 2 I 0 58 3 0 2 M 181 181 5 0 2 I 0 112 3 0 2 M 93 93 5 0 2 I 0 53 3 0 2 M 97 97 5 0 2 I 0 714 3 0 2 M 144 144 5 0 2 I 0 215 3 0 2 M 506 506 G 0 2 M 386 386
+1	exonerate_est2genome	exon	2023317	2024068	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2024854	2025051	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2025276	2025317	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2025372	2025512	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2028821	2028897	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2028956	2029022	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2029075	2029220	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2029385	2029505	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2029758	2029928	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2029994	2030079	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2030552	2030600	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2030655	2030744	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2030803	2030889	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2031018	2031329	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2031900	2031990	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2032053	2032233	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2032350	2032442	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2032500	2032596	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2033315	2033458	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	transcript	2033615	2038796	10895	-	.	ID=EST:TCONS_00012377;vulgar=TCONS_00012377 0 2199 + 5 2038796 2033614 - 10895 M 158 158 5 0 2 I 0 107 3 0 2 M 573 573 5 0 2 I 0 777 3 0 2 M 412 412 5 0 2 I 0 2085 3 0 2 M 485 485 G 0 2 M 571 571
+1	exonerate_est2genome	exon	2033615	2034672	.	-	.	Parent=EST:TCONS_00012377
+1	exonerate_est2genome	exon	2033678	2034571	.	+	.	Parent=EST:TCONS_00012348
+1	exonerate_est2genome	exon	2036762	2037173	.	-	.	Parent=EST:TCONS_00012377
+1	exonerate_est2genome	exon	2037955	2038527	.	-	.	Parent=EST:TCONS_00012377
+1	exonerate_est2genome	exon	2038639	2038796	.	-	.	Parent=EST:TCONS_00012377
+1	exonerate_est2genome	transcript	2040378	2044005	15290	+	.	ID=EST:TCONS_00012360.3;vulgar=TCONS_00012360 0 3106 + 5 2040377 2044005 + 15290 M 170 170 5 0 2 I 0 221 3 0 2 M 101 101 5 0 2 I 0 46 3 0 2 M 300 300 5 0 2 I 0 57 3 0 2 M 248 248 5 0 2 I 0 57 3 0 2 M 162 162 5 0 2 I 0 52 3 0 2 M 128 128 5 0 2 I 0 60 3 0 2 M 158 158 G 0 1 M 1094 1094 G 0 4 M 745 745
+1	exonerate_est2genome	exon	2040378	2040547	.	+	.	Parent=EST:TCONS_00012360.3
+1	exonerate_est2genome	exon	2040773	2040873	.	+	.	Parent=EST:TCONS_00012360.3
+1	exonerate_est2genome	exon	2040924	2041223	.	+	.	Parent=EST:TCONS_00012360.3
+1	exonerate_est2genome	exon	2041285	2041532	.	+	.	Parent=EST:TCONS_00012360.3
+1	exonerate_est2genome	exon	2041594	2041755	.	+	.	Parent=EST:TCONS_00012360.3
+1	exonerate_est2genome	exon	2041812	2041939	.	+	.	Parent=EST:TCONS_00012360.3
+1	exonerate_est2genome	exon	2042004	2044005	.	+	.	Parent=EST:TCONS_00012360.3
+5	exonerate_est2genome	transcript	1364850	1378015	5299	+	.	ID=EST:TCONS_00011525;vulgar=TCONS_00011525 308 2565 + 2 1364849 1378015 + 5299 M 39 39 G 0 4 M 2 2 G 0 6 M 39 39 G 4 0 M 1 1 G 2 0 M 6 6 G 1 0 M 29 29 5 0 2 I 0 407 3 0 2 M 65 65 5 0 2 I 0 7300 3 0 2 M 226 226 5 0 2 I 0 1725 3 0 2 M 388 388 5 0 2 I 0 1496 3 0 2 M 218 218 G 0 1 M 10 10 G 1 0 M 16 16 G 0 6 M 1 1 G 0 3 M 46 46 G 0 9 M 101 101 G 1 0 M 97 97 G 2 0 M 19 19 G 4 0 M 5 5 G 2 0 M 25 25 G 1 0 M 20 20 G 0 3 M 4 4 G 0 4 M 2 2 G 0 1 M 15 15 G 2 0 M 59 59 G 0 3 M 19 19 G 2 0 M 16 16 G 0 1 M 10 10 G 0 1 M 12 12 G 0 1 M 5 5 G 0 4 M 25 25 G 0 1 M 7 7 G 0 1 M 21 21 G 0 3 M 11 11 G 0 2 M 31 31 G 1 0 M 26 26 G 0 1 M 12 12 G 1 0 M 15 15 G 3 0 M 9 9 G 4 0 M 9 9 G 3 0 M 12 12 G 5 0 M 7 7 G 1 0 M 3 3 G 1 0 M 14 14 G 2 0 M 2 2 G 1 0 M 9 9 G 1 0 M 6 6 G 5 0 M 5 5 G 2 0 M 5 5 G 3 0 M 3 3 G 5 0 M 43 43 G 3 0 M 37 37 G 3 0 M 19 19 G 2 0 M 29 29 G 3 0 M 18 18 G 4 0 M 1 1 G 1 0 M 6 6 G 3 0 M 6 6 G 1 0 M 14 14 G 0 1 M 28 28 G 3 0 M 3 3 G 0 1 M 25 25 G 0 1 M 8 8 G 2 0 M 4 4 G 1 0 M 17 17 G 0 1 M 5 5 G 2 0 M 1 1 G 1 0 M 18 18 G 0 3 M 4 4 G 0 1 M 25 25 G 1 0 M 1 1 G 1 0 M 7 7 G 1 0 M 24 24 G 0 3 M 14 14 G 3 0 M 19 19 G 1 0 M 1 1 G 1 0 M 2 2 G 3 0 M 1 1 G 2 0 M 24 24 G 0 1 M 5 5 G 0 1 M 9 9 G 1 0 M 9 9
+5	exonerate_est2genome	exon	1364850	1364975	.	+	.	Parent=EST:TCONS_00011525;2=exonerate:est2genome,exon,1364850,1364975,.,+,.,insertions,10
+5	exonerate_est2genome	exon	1365387	1365451	.	+	.	Parent=EST:TCONS_00011525;2=exonerate:est2genome,exon,1365387,1365451,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1372756	1372981	.	+	.	Parent=EST:TCONS_00011525;2=exonerate:est2genome,exon,1372756,1372981,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1374711	1375098	.	+	.	Parent=EST:TCONS_00011525;2=exonerate:est2genome,exon,1374711,1375098,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1376599	1378015	.	+	.	Parent=EST:TCONS_00011525
+5	exonerate_est2genome	transcript	1622367	1642206	4173	+	.	ID=EST:TCONS_00011544;vulgar=TCONS_00011525 308 2565 + 2 1364849 1378015 + 5299 M 39 39 G 0 4 M 2 2 G 0 6 M 39 39 G 4 0 M 1 1 G 2 0 M 6 6 G 1 0 M 29 29 5 0 2 I 0 407 3 0 2 M 65 65 5 0 2 I 0 7300 3 0 2 M 226 226 5 0 2 I 0 1725 3 0 2 M 388 388 5 0 2 I 0 1496 3 0 2 M 218 218 G 0 1 M 10 10 G 1 0 M 16 16 G 0 6 M 1 1 G 0 3 M 46 46 G 0 9 M 101 101 G 1 0 M 97 97 G 2 0 M 19 19 G 4 0 M 5 5 G 2 0 M 25 25 G 1 0 M 20 20 G 0 3 M 4 4 G 0 4 M 2 2 G 0 1 M 15 15 G 2 0 M 59 59 G 0 3 M 19 19 G 2 0 M 16 16 G 0 1 M 10 10 G 0 1 M 12 12 G 0 1 M 5 5 G 0 4 M 25 25 G 0 1 M 7 7 G 0 1 M 21 21 G 0 3 M 11 11 G 0 2 M 31 31 G 1 0 M 26 26 G 0 1 M 12 12 G 1 0 M 15 15 G 3 0 M 9 9 G 4 0 M 9 9 G 3 0 M 12 12 G 5 0 M 7 7 G 1 0 M 3 3 G 1 0 M 14 14 G 2 0 M 2 2 G 1 0 M 9 9 G 1 0 M 6 6 G 5 0 M 5 5 G 2 0 M 5 5 G 3 0 M 3 3 G 5 0 M 43 43 G 3 0 M 37 37 G 3 0 M 19 19 G 2 0 M 29 29 G 3 0 M 18 18 G 4 0 M 1 1 G 1 0 M 6 6 G 3 0 M 6 6 G 1 0 M 14 14 G 0 1 M 28 28 G 3 0 M 3 3 G 0 1 M 25 25 G 0 1 M 8 8 G 2 0 M 4 4 G 1 0 M 17 17 G 0 1 M 5 5 G 2 0 M 1 1 G 1 0 M 18 18 G 0 3 M 4 4 G 0 1 M 25 25 G 1 0 M 1 1 G 1 0 M 7 7 G 1 0 M 24 24 G 0 3 M 14 14 G 3 0 M 19 19 G 1 0 M 1 1 G 1 0 M 2 2 G 3 0 M 1 1 G 2 0 M 24 24 G 0 1 M 5 5 G 0 1 M 9 9 G 1 0 M 9 9
+5	exonerate_est2genome	exon	1622367	1622970	.	+	.	Parent=EST:TCONS_00011544;2=exonerate:est2genome,exon,1622367,1622970,.,+,.,insertions,28
+5	exonerate_est2genome	exon	1626412	1626660	.	+	.	Parent=EST:TCONS_00011544;2=exonerate:est2genome,exon,1626412,1626660,.,+,.,insertions,1
+5	exonerate_est2genome	exon	1630134	1630259	.	+	.	Parent=EST:TCONS_00011544;2=exonerate:est2genome,exon,1630134,1630259,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1631623	1631740	.	+	.	Parent=EST:TCONS_00011544;2=exonerate:est2genome,exon,1631623,1631740,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1641739	1641878	.	+	.	Parent=EST:TCONS_00011544;2=exonerate:est2genome,exon,1641739,1641878,.,+,.,insertions,0
+5	exonerate_est2genome	exon	1641956	1642206	.	+	.	Parent=EST:TCONS_00011544
+1	exonerate_est2genome	transcript	2278617	2380767	14849	-	.	ID=EST:TCONS_00011536;vulgar=TCONS_00011536 0 2977 + 5 2380767 2278616 - 14849 M 288 288 5 0 2 I 0 31941 3 0 2 M 266 266 5 0 2 I 0 428 3 0 2 M 245 245 5 0 2 I 0 28017 3 0 2 M 104 104 5 0 2 I 0 12465 3 0 2 M 258 258 5 0 2 I 0 21886 3 0 2 M 119 119 5 0 2 I 0 1483 3 0 2 M 165 165 5 0 2 I 0 311 3 0 2 M 166 166 5 0 2 I 0 2611 3 0 2 M 1366 1366
+1	exonerate_est2genome	exon	2278617	2279982	.	-	.	Parent=EST:TCONS_00011536
+1	exonerate_est2genome	exon	2282598	2282763	.	-	.	Parent=EST:TCONS_00011536
+1	exonerate_est2genome	exon	2283079	2283243	.	-	.	Parent=EST:TCONS_00011536
+1	exonerate_est2genome	exon	2284731	2284849	.	-	.	Parent=EST:TCONS_00011536
+1	exonerate_est2genome	exon	2306740	2306997	.	-	.	Parent=EST:TCONS_00011536
+1	exonerate_est2genome	exon	2319467	2319570	.	-	.	Parent=EST:TCONS_00011536
+1	exonerate_est2genome	exon	2347592	2347836	.	-	.	Parent=EST:TCONS_00011536
+1	exonerate_est2genome	exon	2348269	2348534	.	-	.	Parent=EST:TCONS_00011536
+1	exonerate_est2genome	exon	2380480	2380767	.	-	.	Parent=EST:TCONS_00011536
+1	exonerate_est2genome	transcript	2415919	2434496	15406	-	.	ID=EST:TCONS_00011532;vulgar=TCONS_00011532 0 3105 + 5 2434496 2415918 - 15406 M 364 364 5 0 2 I 0 162 3 0 2 M 344 344 5 0 2 I 0 48 3 0 2 M 213 213 5 0 2 I 0 232 3 0 2 M 144 144 5 0 2 I 0 5750 3 0 2 M 132 132 5 0 2 I 0 913 3 0 2 M 345 345 5 0 2 I 0 489 3 0 2 M 394 394 5 0 2 I 0 1625 3 0 2 M 161 161 5 0 2 I 0 2580 3 0 2 M 438 438 5 0 2 I 0 1912 3 0 2 M 258 258 5 0 2 I 0 1722 3 0 2 M 312 312
+1	exonerate_est2genome	exon	2415919	2416230	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	exon	2417957	2418214	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	exon	2420131	2420568	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	exon	2423153	2423313	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	exon	2424943	2425336	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	exon	2425830	2426174	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	exon	2427092	2427223	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	exon	2432978	2433121	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	exon	2433358	2433570	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	exon	2433623	2433966	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	exon	2434133	2434496	.	-	.	Parent=EST:TCONS_00011532
+1	exonerate_est2genome	transcript	2440700	2471041	12943	-	.	ID=EST:TCONS_00011525;vulgar=TCONS_00011525 0 2631 + 5 2471041 2440699 - 12943 M 391 391 5 0 2 I 0 408 3 0 2 M 105 105 5 0 2 I 0 19337 3 0 2 M 226 226 5 0 2 I 0 2762 3 0 2 M 388 388 5 0 2 I 0 5177 3 0 2 M 1112 1112 G 0 8 M 4 4 G 0 3 M 405 405
+1	exonerate_est2genome	exon	2440700	2442231	.	-	.	Parent=EST:TCONS_00011525
+1	exonerate_est2genome	exon	2447413	2447800	.	-	.	Parent=EST:TCONS_00011525
+1	exonerate_est2genome	exon	2450567	2450792	.	-	.	Parent=EST:TCONS_00011525
+1	exonerate_est2genome	exon	2470134	2470238	.	-	.	Parent=EST:TCONS_00011525
+1	exonerate_est2genome	exon	2470651	2471041	.	-	.	Parent=EST:TCONS_00011525
+1	exonerate_est2genome	transcript	2476146	2477947	5406	+	.	ID=EST:TCONS_00011576;vulgar=TCONS_00011576 0 1113 + 5 2476145 2477947 + 5406 M 287 287 5 0 2 I 0 129 3 0 2 M 152 152 5 0 2 I 0 80 3 0 2 M 72 72 5 0 2 I 0 54 3 0 2 M 69 69 5 0 2 I 0 46 3 0 2 M 272 272 5 0 2 I 0 281 3 0 2 M 80 80 5 0 2 I 0 75 3 0 2 M 181 181
+1	exonerate_est2genome	exon	2476146	2476432	.	+	.	Parent=EST:TCONS_00011576
+1	exonerate_est2genome	exon	2476566	2476717	.	+	.	Parent=EST:TCONS_00011576
+1	exonerate_est2genome	exon	2476802	2476873	.	+	.	Parent=EST:TCONS_00011576
+1	exonerate_est2genome	exon	2476932	2477000	.	+	.	Parent=EST:TCONS_00011576
+1	exonerate_est2genome	exon	2477051	2477322	.	+	.	Parent=EST:TCONS_00011576
+1	exonerate_est2genome	exon	2477608	2477687	.	+	.	Parent=EST:TCONS_00011576
+1	exonerate_est2genome	exon	2477767	2477947	.	+	.	Parent=EST:TCONS_00011576
+1	exonerate_est2genome	transcript	2479579	2492455	9253	+	.	ID=EST:TCONS_00011570.3;vulgar=TCONS_00011570 0 1853 + 5 2479578 2492455 + 9253 M 257 257 5 0 2 I 0 10961 3 0 2 M 528 528 5 0 2 I 0 55 3 0 2 M 1068 1068
+1	exonerate_est2genome	exon	2479579	2479835	.	+	.	Parent=EST:TCONS_00011570.3
+1	exonerate_est2genome	exon	2490801	2491328	.	+	.	Parent=EST:TCONS_00011570.3
+1	exonerate_est2genome	exon	2491388	2492455	.	+	.	Parent=EST:TCONS_00011570.3
+1	exonerate_est2genome	transcript	2495207	2506820	26035	+	.	ID=EST:TCONS_00011570;vulgar=TCONS_00011570 4515 9770 + 5 2495206 2506820 + 26035 M 2779 2779 5 0 2 I 0 529 3 0 2 M 275 275 5 0 2 I 0 186 3 0 2 M 90 90 5 0 2 I 0 2349 3 0 2 M 234 234 5 0 2 I 0 1759 3 0 2 M 274 274 5 0 2 I 0 826 3 0 2 M 138 138 5 0 2 I 0 608 3 0 2 M 482 482 5 0 2 I 0 74 3 0 2 M 983 983
+1	exonerate_est2genome	exon	2495207	2497985	.	+	.	Parent=EST:TCONS_00011570
+1	exonerate_est2genome	exon	2498519	2498793	.	+	.	Parent=EST:TCONS_00011570
+1	exonerate_est2genome	exon	2498984	2499073	.	+	.	Parent=EST:TCONS_00011570
+1	exonerate_est2genome	exon	2501427	2501660	.	+	.	Parent=EST:TCONS_00011570
+1	exonerate_est2genome	exon	2503424	2503697	.	+	.	Parent=EST:TCONS_00011570
+1	exonerate_est2genome	exon	2504528	2504665	.	+	.	Parent=EST:TCONS_00011570
+1	exonerate_est2genome	exon	2505278	2505759	.	+	.	Parent=EST:TCONS_00011570
+1	exonerate_est2genome	exon	2505838	2506820	.	+	.	Parent=EST:TCONS_00011570
+1	exonerate_est2genome	transcript	2507570	2512795	19769	+	.	ID=EST:TCONS_00011570.2;vulgar=TCONS_00011570 10172 14165 + 5 2507569 2512795 + 19769 M 121 121 5 0 2 I 0 55 3 0 2 M 663 663 5 0 2 I 0 174 3 0 2 M 280 280 5 0 2 I 0 992 3 0 2 M 2929 2929
+1	exonerate_est2genome	exon	2507570	2507690	.	+	.	Parent=EST:TCONS_00011570.2
+1	exonerate_est2genome	exon	2507750	2508412	.	+	.	Parent=EST:TCONS_00011570.2
+1	exonerate_est2genome	exon	2508591	2508870	.	+	.	Parent=EST:TCONS_00011570.2
+1	exonerate_est2genome	exon	2509867	2512795	.	+	.	Parent=EST:TCONS_00011570.2
