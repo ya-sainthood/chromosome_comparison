@@ -270,7 +270,7 @@ try{
 	  print "#\t".$file.".filtered.txt\n";
 	}
 
-	print "# script:\n#\tfilter_repeat_2.pl\n";
+	print "# script:\n#\tfilter_repeat.pl\n";
 	print "# date:\n#\t".localtime."\n";
 	print "# author:\n#\tToshiya Ando <toshiya.ando.ca\@gmail.com>\n";
 	print "#\n";
